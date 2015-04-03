@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.10)  3 APR 2015 15:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.10)  3 APR 2015 15:33
 entering extended mode
 **C:/Users/rach0012/Documents/GitHub/iccv-obMem/latexFiles/egpaper_final.tex
 (C:/Users/rach0012/Documents/GitHub/iccv-obMem/latexFiles/egpaper_final.tex
@@ -348,8 +348,6 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 48.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 48.
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 48.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
@@ -358,45 +356,53 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 51.
  (abstract.tex)
-(introduction.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
+(introduction.tex)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 123.
 
- [4321{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+LaTeX Warning: Reference `fig:onecol' on page 4321 undefined on input line 123.
 
 
-] [4322]) [4323]
-(egpaper_final.bbl)
+
+LaTeX Warning: Reference `fig:short' on page 4321 undefined on input line 123.
+
+[4321{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+] (egpaper_final.bbl)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 217.
- [4324]
+
+[4322]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 217.
  (egpaper_final.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 217.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 217.
+
+
+LaTeX Warning: There were undefined references.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 217.
  ) 
 Here is how much of TeX's memory you used:
- 6628 strings out of 493698
- 93158 string characters out of 3144403
- 187813 words of memory out of 3000000
- 9819 multiletter control sequences out of 15000+200000
- 36633 words of font info for 88 fonts, out of 3000000 for 9000
+ 6581 strings out of 493698
+ 92615 string characters out of 3144403
+ 184298 words of memory out of 3000000
+ 9795 multiletter control sequences out of 15000+200000
+ 30114 words of font info for 69 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 37i,9n,39p,370b,332s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,9n,39p,286b,330s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8
-a.pfb>
-Output written on egpaper_final.pdf (4 pages, 155696 bytes).
+ 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courie
+r/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on egpaper_final.pdf (2 pages, 103624 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
+ 66 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
