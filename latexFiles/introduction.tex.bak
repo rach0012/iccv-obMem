@@ -1,5 +1,12 @@
+\begin{figure}[t]
+\centering
+\subfigure{\includegraphics[width=0.48\textwidth]{figures/introduction/113.jpg}}
+\subfigure{\includegraphics[width=0.48\textwidth]{figures/introduction/allObs.png}}
+\vspace{-3mm}\caption{\footnotesize\textbf{Object memorability.}}\label{fig:introPhoto}
+\end{figure}
 
-
+Consider the Figure \ref{fig:introPhoto}. Despite the relatively small image space occupied by the people in the boat, when humans describe the scene they mention both the people (“3 adults and two children”, “Four people”, “Several people”), and the boat (“raft”, “canoe”, “canoe”). The giant wooden structure in the foreground is all but ignored, and the cliffs in the
+background are only mentioned by one person. This suggests a significant and interesting bias in perceived content importance by human viewers!
 
 Human long-term memory can store a remarkable amount of visual information and remember thousands of different pictures even after seeing each of them only once [25, 1]. However, it appears to be the fate of visual memories that they degrade [13, 30]. While most of the work in visual cognition has examined how people forget for general classes of visual or verbal stimuli [30], little work has looked at which image information is forgotten and which is retained. Does all visual information fade alike? Are there some features, image regions or objects that are forgotten more easily than others? Inspired by work in visual cognition showing that humans selectively forget some objects and regions from an image while retaining others [22], we propose a novel probabilistic framework for modeling image memorability, based on the fading of local image information.
 
