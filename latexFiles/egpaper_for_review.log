@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.10)  4 APR 2015 20:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.10)  7 APR 2015 18:08
 entering extended mode
 **C:/Users/rach0012/Documents/GitHub/iccv-obMem/latexFiles/egpaper_for_review.t
 ex
@@ -437,34 +437,33 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
  (abstract.tex)
 (introduction.tex
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 20.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
-File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
-)
-[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
-]
-<figures/introduction/113.jpg, id=19, 501.875pt x 334.24875pt>
+<figures/introduction/113.jpg, id=4, 501.875pt x 334.24875pt>
 File: figures/introduction/113.jpg Graphic file (type jpg)
 
 <use figures/introduction/113.jpg>
-Package pdftex.def Info: figures/introduction/113.jpg used on input line 33.
+Package pdftex.def Info: figures/introduction/113.jpg used on input line 7.
 (pdftex.def)             Requested size: 198.73946pt x 132.36087pt.
 
-<figures/introduction/allObs.png, id=20, 545.03625pt x 186.6975pt>
+<figures/introduction/allObs.png, id=5, 545.03625pt x 186.6975pt>
 File: figures/introduction/allObs.png Graphic file (type png)
 
 <use figures/introduction/allObs.png>
-Package pdftex.def Info: figures/introduction/allObs.png used on input line 37.
+Package pdftex.def Info: figures/introduction/allObs.png used on input line 11.
 
 (pdftex.def)             Requested size: 198.73946pt x 68.07422pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
-) (egpaper_for_review.bbl
-(egpaper_for_review.brf)
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 18.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 18.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+) [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+ <./figures/introduction/113.jpg> <./figures/introduction/allObs.png>]) (egpape
+r_for_review.bbl (egpaper_for_review.brf)
 \tf@brf=\write3
 
 
@@ -474,10 +473,9 @@ LaTeX Warning: Empty `thebibliography' environment on input line 3.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
  [2
 
- <./figures/introduction/113.jpg> <./figures/introduction/allObs.png>]
+]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
-
-(egpaper_for_review.aux)
+ (egpaper_for_review.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 73.
 Package rerunfilecheck Info: File `egpaper_for_review.brf' has not changed.
@@ -487,11 +485,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
 Here is how much of TeX's memory you used:
  8008 strings out of 493698
  117904 string characters out of 3144403
- 216212 words of memory out of 3000000
+ 217212 words of memory out of 3000000
  11202 multiletter control sequences out of 15000+200000
  28649 words of font info for 64 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 41i,12n,39p,1639b,377s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,12n,39p,1647b,377s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/font
@@ -499,9 +497,9 @@ s/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/he
 lvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on egpaper_for_review.pdf (2 pages, 394151 bytes).
+Output written on egpaper_for_review.pdf (2 pages, 394476 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
+ 56 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
