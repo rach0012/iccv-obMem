@@ -1,0 +1,58 @@
+@inproceedings{isola11,
+  title={What makes an image memorable?},
+  author={Isola, Phillip and Xiao, Jianxiong and Torralba, Antonio and Oliva, Aude},
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on},
+  pages={145--152},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{zoya15,
+  title={Intrinsic and extrinsic effects on image memorability},
+  author={Bylinskii, Zoya and Isola, Phillip and Bainbridge, Constance and Torralba, Antonio and Oliva, Aude},
+  journal={Vision research},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{isola14,
+  title={What makes a photograph memorable?},
+  author={Isola, Phillip and Xiao, Jianxiong and Parikh, Devi and Torralba, Antonio and Oliva, Aude},
+  journal={Pattern Analysis and Machine Intelligence, IEEE Transactions on},
+  volume={36},
+  number={7},
+  pages={1469--1482},
+  year={2014},
+  publisher={IEEE}
+}
+
+@inproceedings{khosla12,
+  title={Memorability of image regions},
+  author={Khosla, Aditya and Xiao, Jianxiong and Torralba, Antonio and Oliva, Aude},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={305--313},
+  year={2012}
+}
+
+@inproceedings{kim13,
+  title={Relative spatial features for image memorability},
+  author={Kim, Jongpil and Yoon, Sejong and Pavlovic, Vladimir},
+  booktitle={Proceedings of the 21st ACM international conference on Multimedia},
+  pages={761--764},
+  year={2013},
+  organization={ACM}
+}
+
+@misc{pascal10,
+  title={The PASCAL visual object classes challenge 2010 (VOC2010) development kit},
+  author={Everingham, Mark and Winn, John},
+  year={2010},
+  publisher={Citeseer}
+}
+
+@inproceedings{lemeur13,
+  title={Memorability of natural scenes: the role of attention},
+  author={Mancas, Matei and Le Meur, Olivier},
+  booktitle={ICIP},
+  year={2013}
+}

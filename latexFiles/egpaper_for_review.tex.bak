@@ -65,9 +65,9 @@ First line of institution2 address\\
 
 \input{introduction}
 
-\subsection{Related works}
-\input{relatedWork}
+\section{Measuring Object Memorability}
 
+\input{memoryGame}
 
 {\small
 \bibliographystyle{ieee}
