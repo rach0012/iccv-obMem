@@ -1,3 +1,42 @@
-\begin{thebibliography}{}\itemsep=-1pt
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{zoya15}
+Z.~Bylinskii, P.~Isola, C.~Bainbridge, A.~Torralba, and A.~Oliva.
+\newblock Intrinsic and extrinsic effects on image memorability.
+\newblock {\em Vision research}, 2015.
+
+\bibitem{pascal10}
+M.~Everingham and J.~Winn.
+\newblock The pascal visual object classes challenge 2010 (voc2010) development
+  kit, 2010.
+
+\bibitem{isola14}
+P.~Isola, J.~Xiao, D.~Parikh, A.~Torralba, and A.~Oliva.
+\newblock What makes a photograph memorable?
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, 36(7):1469--1482, 2014.
+
+\bibitem{isola11}
+P.~Isola, J.~Xiao, A.~Torralba, and A.~Oliva.
+\newblock What makes an image memorable?
+\newblock In {\em Computer Vision and Pattern Recognition (CVPR), 2011 IEEE
+  Conference on}, pages 145--152. IEEE, 2011.
+
+\bibitem{khosla12}
+A.~Khosla, J.~Xiao, A.~Torralba, and A.~Oliva.
+\newblock Memorability of image regions.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  305--313, 2012.
+
+\bibitem{kim13}
+J.~Kim, S.~Yoon, and V.~Pavlovic.
+\newblock Relative spatial features for image memorability.
+\newblock In {\em Proceedings of the 21st ACM international conference on
+  Multimedia}, pages 761--764. ACM, 2013.
+
+\bibitem{lemeur13}
+M.~Mancas and O.~Le~Meur.
+\newblock Memorability of natural scenes: the role of attention.
+\newblock In {\em ICIP}, 2013.
 
 \end{thebibliography}
