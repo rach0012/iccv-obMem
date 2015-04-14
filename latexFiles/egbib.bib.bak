@@ -56,3 +56,21 @@
   booktitle={ICIP},
   year={2013}
 }
+
+@inproceedings{yin14,
+  title={The secrets of salient object segmentation},
+  author={Li, Yin and Hou, Xiaodi and Koch, Christof and Rehg, James M and Yuille, Alan L},
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on},
+  pages={280--287},
+  year={2014},
+  organization={IEEE}
+}
+
+@inproceedings{dutomron13,
+  title={Saliency detection via graph-based manifold ranking},
+  author={Yang, Chuan and Zhang, Lihe and Lu, Huchuan and Ruan, Xiang and Yang, Ming-Hsuan},
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2013 IEEE Conference on},
+  pages={3166--3173},
+  year={2013},
+  organization={IEEE}
+}
