@@ -67,7 +67,13 @@ First line of institution2 address\\
 
 \section{Measuring Object Memorability}
 
-\input{memoryGame}
+\input{measuringObMem}
+
+\section{What is the relationship between object memorability and object categories?}
+
+
+
+\input{measuringObMem}
 
 {\small
 \bibliographystyle{ieee}

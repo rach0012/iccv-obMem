@@ -74,3 +74,25 @@
   year={2013},
   organization={IEEE}
 }
+
+@article{msra11,
+  title={Learning to detect a salient object},
+  author={Liu, Tie and Yuan, Zejian and Sun, Jian and Wang, Jingdong and Zheng, Nanning and Tang, Xiaoou and Shum, Heung-Yeung},
+  journal={Pattern Analysis and Machine Intelligence, IEEE Transactions on},
+  volume={33},
+  number={2},
+  pages={353--367},
+  year={2011},
+  publisher={IEEE}
+}
+
+@article{brady08,
+  title={Visual long-term memory has a massive storage capacity for object details},
+  author={Brady, Timothy F and Konkle, Talia and Alvarez, George A and Oliva, Aude},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={105},
+  number={38},
+  pages={14325--14329},
+  year={2008},
+  publisher={National Acad Sciences}
+}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.10)  14 APR 2015 06:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.10)  15 APR 2015 01:08
 entering extended mode
 **C:/Users/rach0012/Documents/GitHub/iccv-obMem/latexFiles/egpaper_for_review.t
 ex
@@ -470,47 +470,82 @@ Work.tex)) (measuringObMem.tex
 Underfull \vbox (badness 3482) has occurred while \output is active []
 
 
-(memoryGame.tex
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
- [2]
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ò in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ò in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ò in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
+(memoryGame.tex <figures/method/18.jpg, id=41, 501.875pt x 376.40625pt>
+File: figures/method/18.jpg Graphic file (type jpg)
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+<use figures/method/18.jpg>
+Package pdftex.def Info: figures/method/18.jpg used on input line 6.
+(pdftex.def)             Requested size: 49.68864pt x 37.26375pt.
 
-)
-(consistency.tex
+<figures/method/1288.jpg, id=42, 401.5pt x 301.125pt>
+File: figures/method/1288.jpg Graphic file (type jpg)
+
+<use figures/method/1288.jpg>
+Package pdftex.def Info: figures/method/1288.jpg used on input line 7.
+(pdftex.def)             Requested size: 49.68864pt x 37.26375pt.
+
+<figures/method/1409.jpg, id=43, 401.5pt x 301.125pt>
+File: figures/method/1409.jpg Graphic file (type jpg)
+
+<use figures/method/1409.jpg>
+Package pdftex.def Info: figures/method/1409.jpg used on input line 8.
+(pdftex.def)             Requested size: 49.68864pt x 37.26375pt.
+
+<figures/method/filler5.jpg, id=44, 401.5pt x 268.00125pt>
+File: figures/method/filler5.jpg Graphic file (type jpg)
+
+<use figures/method/filler5.jpg>
+Package pdftex.def Info: figures/method/filler5.jpg used on input line 9.
+(pdftex.def)             Requested size: 49.68864pt x 33.16473pt.
+
+<figures/method/18_4.png, id=45, 501.875pt x 376.40625pt>
+File: figures/method/18_4.png Graphic file (type png)
+
+<use figures/method/18_4.png>
+Package pdftex.def Info: figures/method/18_4.png used on input line 10.
+(pdftex.def)             Requested size: 49.68864pt x 37.26375pt.
+
+<figures/method/1288.png, id=46, 401.5pt x 301.125pt>
+File: figures/method/1288.png Graphic file (type png)
+
+<use figures/method/1288.png>
+Package pdftex.def Info: figures/method/1288.png used on input line 11.
+(pdftex.def)             Requested size: 49.68864pt x 37.26375pt.
+
+<figures/method/1409.png, id=47, 401.5pt x 301.125pt>
+File: figures/method/1409.png Graphic file (type png)
+
+<use figures/method/1409.png>
+Package pdftex.def Info: figures/method/1409.png used on input line 12.
+(pdftex.def)             Requested size: 49.68864pt x 37.26375pt.
+
+<figures/method/15297.png, id=48, 642.4pt x 346.29375pt>
+File: figures/method/15297.png Graphic file (type png)
+
+<use figures/method/15297.png>
+Package pdftex.def Info: figures/method/15297.png used on input line 13.
+(pdftex.def)             Requested size: 49.68864pt x 26.78464pt.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+) [2] (consistency.tex
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ô in font ptmr7t!
 Missing character: There is no œ in font ptmr7t!
 Missing character: There is no Å in font ptmr7t!
-)) [3] (egpaper_for_review.bbl (egpaper_for_review.brf)
+))
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(egpaper_for_review.bbl (egpaper_for_review.brf)
 \tf@brf=\write3
-
-Underfull \hbox (badness 1484) in paragraph at lines 7--7
-[]\OT1/ptm/m/n/9 Z. Bylin-skii, P. Isola, C. Bain-bridge, A. Tor-ralba, and
- []
-
-)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
+ [3 <./figures/method/18.jpg> <./figures/method/1288.jpg> <./figures/method/140
+9.jpg> <./figures/method/filler5.jpg> <./figures/method/18_4.png (PNG copy)> <.
+/figures/method/1288.png (PNG copy)> <./figures/method/1409.png (PNG copy)> <./
+figures/method/15297.png (PNG copy)>])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
  [4
 
@@ -520,27 +555,28 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 77.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 77.
 Package rerunfilecheck Info: File `egpaper_for_review.brf' has not changed.
-(rerunfilecheck)             Checksum: F97419E906DAFB4778F604A06C9A1B16;551.
+(rerunfilecheck)             Checksum: 95AD9345D2BAA3887683A4F6E706B38F;796.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 77.
  ) 
 Here is how much of TeX's memory you used:
- 8076 strings out of 493698
- 118667 string characters out of 3144403
- 220474 words of memory out of 3000000
- 11239 multiletter control sequences out of 15000+200000
- 33625 words of font info for 69 fonts, out of 3000000 for 9000
+ 8153 strings out of 493698
+ 120059 string characters out of 3144403
+ 222644 words of memory out of 3000000
+ 11293 multiletter control sequences out of 15000+200000
+ 35689 words of font info for 76 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 41i,12n,39p,1943b,377s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,12n,39p,2838b,475s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/he
-lvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on egpaper_for_review.pdf (4 pages, 421680 bytes).
+s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/u
+hvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on egpaper_for_review.pdf (4 pages, 969778 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 23 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 138 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

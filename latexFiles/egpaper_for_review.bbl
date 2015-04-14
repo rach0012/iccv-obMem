@@ -1,4 +1,11 @@
-\begin{thebibliography}{1}\itemsep=-1pt
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{brady08}
+T.~F. Brady, T.~Konkle, G.~A. Alvarez, and A.~Oliva.
+\newblock Visual long-term memory has a massive storage capacity for object
+  details.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  105(38):14325--14329, 2008.
 
 \bibitem{zoya15}
 Z.~Bylinskii, P.~Isola, C.~Bainbridge, A.~Torralba, and A.~Oliva.
@@ -39,6 +46,18 @@ Y.~Li, X.~Hou, C.~Koch, J.~M. Rehg, and A.~L. Yuille.
 \newblock The secrets of salient object segmentation.
 \newblock In {\em Computer Vision and Pattern Recognition (CVPR), 2014 IEEE
   Conference on}, pages 280--287. IEEE, 2014.
+
+\bibitem{coco14}
+T.-Y. Lin, M.~Maire, S.~Belongie, J.~Hays, P.~Perona, D.~Ramanan,
+  P.~Doll{\'a}r, and C.~L. Zitnick.
+\newblock Microsoft coco: Common objects in context.
+\newblock In {\em Computer Vision--ECCV 2014}, pages 740--755. Springer, 2014.
+
+\bibitem{msra11}
+T.~Liu, Z.~Yuan, J.~Sun, J.~Wang, N.~Zheng, X.~Tang, and H.-Y. Shum.
+\newblock Learning to detect a salient object.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, 33(2):353--367, 2011.
 
 \bibitem{lemeur13}
 M.~Mancas and O.~Le~Meur.
