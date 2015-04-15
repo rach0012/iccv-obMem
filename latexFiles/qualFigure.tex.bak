@@ -1,0 +1,40 @@
+\begin{figure*}[t]
+\centering
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/best_obClasses/animal_1.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/best_obClasses/animal_2.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/best_obClasses/animal_3.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/best_obClasses/building_1.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/best_obClasses/building_2.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/best_obClasses/building_3.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/best_obClasses/device_1.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/best_obClasses/device_2.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/best_obClasses/device_3.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/best_obClasses/nature_1.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/best_obClasses/nature_2.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/best_obClasses/nature_3.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/best_obClasses/person_1.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/best_obClasses/person_2.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/best_obClasses/person_3.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/best_obClasses/vehicle_1.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/best_obClasses/vehicle_2.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/best_obClasses/vehicle_3.png}}\\
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/worst_obClasses/animal_1.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/worst_obClasses/animal_2.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/worst_obClasses/animal_3.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/worst_obClasses/building_1.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/worst_obClasses/building_2.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/worst_obClasses/building_3.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/worst_obClasses/device_1.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/worst_obClasses/device_2.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/worst_obClasses/device_3.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/worst_obClasses/nature_1.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth][height=0.05\textheight]{figures/results/obLabel/best-worst_obClasses/worst_obClasses/nature_2.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/worst_obClasses/nature_3.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/worst_obClasses/person_1.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/worst_obClasses/person_2.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/worst_obClasses/person_3.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/worst_obClasses/vehicle_1.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/worst_obClasses/vehicle_2.png}}
+\subfigure{\centering \includegraphics[width=0.05\textwidth]{figures/results/obLabel/best-worst_obClasses/worst_obClasses/vehicle_3.png}}
+\vspace{-5mm}\caption{\footnotesize\textbf{Average memorability per object class.} Figure showing some object classes are more memorable than others. }\label{fig:qualLabel}
+\end{figure*} 

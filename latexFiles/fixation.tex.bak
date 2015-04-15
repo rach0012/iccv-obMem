@@ -1,0 +1,19 @@
+Note: add in small intro about past work
+
+To examine the relationship between visual saliency and object memorability, we used two indexes of saliency to describe each object. The first was calculated as the number of unique fixation points within the area of each object. The correlation between object memorability and number of fixations within those objects was quite high (ρ = 0.71). However, this correlation decreases significantly as the number of total fixations within the object increases. In figure X, we show the correlation between object memorability and number of fixations for subsets of the objects that have at least some minimum number of fixations. On the leftmost side of the plot, the correlation is at it's highest since the set of objects with a fixation count greater than or equal to zero includes all objects and so the correlation is identical to FIGURE FIX-CORR. However, as the minimum number of fixations increases, we look only at objects that contain an increasingly higher number of distinct fixation points, and the correlation decreases. By the time we reach a minimum fixation count of around 35, the correlation falls to around 0.2. This may mean that the predictive value of saliency decreases when there are many areas of interest within a single object. (NOTE: We may want to show examples of images with lots of fixation points that were not well predicted. We could just plot the fixation locations as points on the image) The reason for this decline may be that... Toward the right end of the plot, few objects contain large numbers of fixations, and so the correlations become sporadic. The red line marks the point for which the correlations cease to be statistically significant, just at the end of the main trend line.
+
+\begin{figure}[t]
+\centering
+\subfigure{\centering \includegraphics[width=0.4\textwidth]{figures/results/fixation/fixation_corr.png}}
+\vspace{-5mm}\caption{\footnotesize\textbf{Correlation between object memorability and number of fixations.} add-in later. }\label{fig:exampleStimuli}
+\end{figure}
+
+\begin{figure}[t]
+\centering
+\subfigure{\centering \includegraphics[width=0.4\textwidth]{figures/results/fixation/mem-fix-corr-by-fix.png}}
+\vspace{-5mm}\caption{\footnotesize\textbf{Relationship between memorability and saliency by minimum number of fixatins.} add-in later. }\label{fig:exampleStimuli}
+\end{figure}
+
+(NOTE: add alternate section that shows the decline in terms of number of objects)
+
+The second metric we used... (put map method here?) 

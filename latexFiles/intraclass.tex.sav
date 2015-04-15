@@ -1,0 +1,13 @@
+As demonstrated above, some object classes like animal, person, vehicle are more than others either due to their intrinsic property or external factors like occlusion, foreground/background etc. However, not all objects in a class are equally memorable. The examples in figure \ref{fig:qualLabel} show the most memorable and least memorable objects for each object class. A common property between these objects is that the least memorable objects within each object class tend to be occluded and obstructed by other objects. What other possible factors could influence the memorability of an object within a class?
+
+\input{qualFigure} 
+
+\textbf{Relationship with number of objects in an image:} We first tested how the memorability of each object class is affected by the number of objects inside an image. We took in all images that had at least 'n' objects (where $1 <= n <= 10$) inside them and computed the average memorability of each object class. Figure \ref{fig:obLabelChange} shows the change in average memorability of the different object classes with respect to the increase in number of objects in an image. This figure shows that the number of objects present in an image is an important factor that results in the variation in the memorability of objects within a class. As the number of objects in an image increase, the memorability of the object classes decreases. In particular, the memorability of objects belonging to highly memorable classes like animal, person, and vehicle decreases significantly with the increase in number of objects in an image. Intuitively, this could mean that with an increase in number of objects, humans cannot concentrate on a single object in an image and have a difficulty remembering objects in those images. Thus, if a person, animal or vehicle is present in a highly cluttered image, humans can not remember those objects very well.
+
+\begin{figure}[t]
+\centering
+\subfigure{\centering \includegraphics[width=0.4\textwidth]{figures/results/obLabel/Change_MemScore.png}}
+\vspace{-5mm}\caption{\footnotesize\textbf{Correlation between object class and number of objects.} add-in later. }\label{fig:obLabelChange}
+\end{figure}
+
+\textbf{Relationship of inter-class memorability:} While the previous analysis sheds light on how the memorability of an object class is effected by factors such as occlusion, and number of objects in an image, how does the presence of a particular object class effect the memorability of another object class? To investigate this, we 

@@ -1,5 +1,16 @@
-In the previous sections, we showed that simple features have little predictive power over object memorability and there exists a weak relationship between visual saliency and object memorability. In this section, we show that object memorability is heavily influenced by it's category and investigate the possible reasons behind the same. 
+In the previous sections, we showed that simple features have little predictive power over object memorability and there exists a weak relationship between visual saliency and object memorability. In this section, we show that object memorability is heavily influenced by it's category and investigate the possible reasons behind the same.
 
 \subsubsection{Are some object classes more memorable than others?}
 
-Our dataset contains $3414$ object segmentations from the Pascal-S dataset. For this analysis, we first assigned three in-house annotators the task of assigning class labels to each object segmentation in our dataset. The annotators were given the original image (for reference) and the object segmentation and asked to assign $1$ category to the segment out of $7$ possible categories: animal, building, device, furniture, nature, person, vehicle. We choose these $7$ categories for their high-level nature and a wide range of classes could be covered under these categories.   
+Our dataset contains $3414$ object segmentations from the Pascal-S dataset. For this analysis, we first assigned three in-house annotators the task of assigning class labels to each object segmentation in our dataset. The annotators were given the original image (for reference) and the object segmentation and asked to assign $1$ category to the segment out of $7$ possible categories: animal, building, device, furniture, nature, person, and vehicle. We choose these high-level categories such that a wide range of object classes could be covered under these categories. For example, device included object segments like utensils, bottle, tv, computer etc, nature included segments like tree, mountain, flowers, and vehicle covered segments like car, bike, bus, aeroplane etc. \textcolor{red}{add a small table here which shows stats of the object classes n their frequency in the dataset.}
+
+Figure \ref{fig:avgMem} shows the average memorability score for the all $7$ different object classes in our dataset. This visualisation gives a sense of how object classes contribute to the memorability of objects. Animal, person, and vehicle are all highly memorable classes with each of them having an average memorability score greater than $0.5$. Interestingly, all the other object categories have an average memorability score lower than $0.25$ indicating that humans do not remember objects from these categories very well. In particular, furniture has an average memorability score of only $0.18$ and is the least memorable object class.
+
+\input{qualFigure}
+
+\begin{figure}[t]
+\centering
+\subfigure{\centering \includegraphics[width=0.4\textwidth]{figures/results/obLabel/Average_MemScore.png}}
+\vspace{-5mm}\caption{\footnotesize\textbf{Average memorability per object class.} Figure showing some object classes are more memorable than others. }\label{fig:avgMem}
+\end{figure}
+
