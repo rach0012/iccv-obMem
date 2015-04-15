@@ -1,3 +1,17 @@
+In this section, we aim to better understand object memorability and the factors that make an object more memorable or forgettable to humans. We first investigate if simple color and geometric factors like simple object features like color etc can predict if an object would be memorable or not.
+
+\subsection{Can simple color features explain object memorability?}
+
+\input{simple}
+
+\subsection{What is the relationship between visual saliency and object memorability?}
+
+\input{fixation}
+
 \subsection{What is the relationship between object memorability and object categories?}
 
-\input{objectLabel}
+\input{objectLabel} 
+
+\subsection{What is the relationship between object memorability and object categories?}
+
+\input{objectLabel} 
