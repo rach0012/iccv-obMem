@@ -69,11 +69,10 @@ First line of institution2 address\\
 
 \input{measuringObMem}
 
-\section{What is the relationship between object memorability and object categories?}
+\section{Understanding Object Memorability} 
 
+\input{understandingObMem}
 
-
-\input{measuringObMem}
 
 {\small
 \bibliographystyle{ieee}
