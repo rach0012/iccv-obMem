@@ -3,10 +3,15 @@ Consider the image and it's corresponding objects in Figure \ref{fig:introPhoto}
 
 \begin{figure}[t]
 \centering
-\subfigure{\centering \includegraphics[width=0.2\textwidth]{figures/introduction/intro.png}}
-\subfigure{\centering \includegraphics[width=0.2\textwidth]{figures/introduction/113.png}}
-\vspace{-5mm}\caption{\footnotesize\textbf{Not all objects are equally memorable.} Figure (left) showing how objects in an image have different memorability scores and how this memorability differs from traditional saliency (right). For example, even humans look at the person on the right and find it salient, it's memorability is quite low. }\label{fig:introPhoto}
+\subfigure{\centering \includegraphics[width=0.4\textwidth]{figures/introduction/113.jpg}}
+
+\vspace{-3mm}
+
+\subfigure{\centering \includegraphics[width=0.4\textwidth]{figures/introduction/allObs.png}}
+\vspace{-5mm}\caption{\footnotesize\textbf{Memorability of different objects.} Memorability scores of objects for the image in the top row obtained from our pysophysics experiment. }\label{fig:introPhoto}
 \end{figure}
+
+NOTE: Big picture way to think about this (rough): A currently massive goal in computer science and artificial intelligence is to model the data driven inference processes that humans make use of for solving vision problems, such as object recognition and scene understanding. A subset of these processes make use of nearly all of the information in the scene, much of which is use implicitly but others are dependent on more explicitly remembered information in a scene, that is, the information that the brain has deemed worthy to create special storage for. For example, the recognition of edges in a scene is learned and used automatically, but if we ask a person to report the important information in a scene, only a few high level things are reported. More specifically, humans can only make judgements about elements of an image that they can remember... 
 
 Just like aesthetics, interestingness, and other metrics of image importance, memorability quantifies something about the utility of a photograph toward our everyday lives. For many practical tasks, memorability is an especially desirable property to maximize. For example, this may be the case when creating educational materials, logos, advertisements, book covers, websites, and much more. Understanding memorability, and being able to automatically predict it, lends itself to a wide variety of applications in each of these areas.\textcolor{red}{rewrite this to draw attention of reviewer to importance of image memorability}. Due to this, automatic prediction of intrinsic memorability of images using computer vision and machine learning techniques has received considerable attention in the recent years \cite{isola11}, \cite{khosla12}, \cite{isola14}, \cite{zoya15}, \cite{kim13}. While these studies have shed light on what distinguishes the memorability of different images and the intrinsic and extrinsic properties that make those images memorable, the above example raises an interesting question: what exactly about an image is remembered? Despite progress in the computer vision literature on image memorability, a clear understanding of the memorability of the specific components of an image is still unknown. For example, not all objects in an image will be equally remembered by people and as the figure \ref{fig:introPhoto} seems to suggest, there exists significant and interesting differences in memorability of objects in an image. Furthermore, the memorability of complex images may be principally driven by the memorability of it's objects. Can specific objects inside images be memorable to all us and how can we better understand what makes those objects more memorable?
 
