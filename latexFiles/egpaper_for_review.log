@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.10)  19 APR 2015 12:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.10)  19 APR 2015 13:57
 entering extended mode
 **C:/Users/rach0012/Documents/GitHub/iccv-obMem/latexFiles/egpaper_for_review.t
 ex
@@ -585,13 +585,13 @@ Overfull \hbox (11.29218pt too wide) in paragraph at lines 18--19
 
 ) (objectLabel.tex (interclass.tex [5 <./figures/results/fixation/fixations.png
 >]
-<figures/results/obLabel/Average_MemScore.png, id=113, 778.99452pt x 504.36853p
-t>
-File: figures/results/obLabel/Average_MemScore.png Graphic file (type png)
- <use figures/results/obLabel/Average_MemScore.png>
-Package pdftex.def Info: figures/results/obLabel/Average_MemScore.png used on i
-nput line 25.
-(pdftex.def)             Requested size: 198.73946pt x 128.66998pt.
+<figures/results/obLabel/memScore_dist.png, id=113, 389.49727pt x 292.12294pt>
+File: figures/results/obLabel/memScore_dist.png Graphic file (type png)
+
+<use figures/results/obLabel/memScore_dist.png>
+Package pdftex.def Info: figures/results/obLabel/memScore_dist.png used on inpu
+t line 25.
+(pdftex.def)             Requested size: 198.73946pt x 149.05649pt.
 ) (intraclass.tex
 (qualFigure.tex
 <figures/results/obLabel/best-worst_obClasses/best_obClasses/animal_1.png, id=1
@@ -840,22 +840,25 @@ Package pdftex.def Info: figures/results/obLabel/best-worst_obClasses/worst_obC
 lasses/vehicle_2.png used on input line 37.
 (pdftex.def)             Requested size: 42.05937pt x 28.45274pt.
 )
-<figures/results/obLabel/Change_MemScore.png, id=140, 778.99452pt x 504.36853pt
->
-File: figures/results/obLabel/Change_MemScore.png Graphic file (type png)
- <use figures/results/obLabel/Change_MemScore.png>
-Package pdftex.def Info: figures/results/obLabel/Change_MemScore.png used on in
-put line 9.
-(pdftex.def)             Requested size: 198.73946pt x 128.66998pt.
- [6 <./figures/results/obLabel/Average_MemScore.png (PNG copy)> <./figures/resu
-lts/obLabel/Change_MemScore.png (PNG copy)>]
-<figures/results/obLabel/Inter-class_MemScore.png, id=155, 778.99452pt x 504.36
-853pt>
-File: figures/results/obLabel/Inter-class_MemScore.png Graphic file (type png)
- <use figures/results/obLabel/Inter-class_MemScore.png>
-Package pdftex.def Info: figures/results/obLabel/Inter-class_MemScore.png used 
-on input line 17.
-(pdftex.def)             Requested size: 198.73946pt x 128.66998pt.
+<figures/results/obLabel/changeMem_numObs.png, id=140, 394.06169pt x 294.40515p
+t>
+File: figures/results/obLabel/changeMem_numObs.png Graphic file (type png)
+ <use figures/results/obLabel/changeMem_numObs.png>
+Package pdftex.def Info: figures/results/obLabel/changeMem_numObs.png used on i
+nput line 9.
+(pdftex.def)             Requested size: 198.73946pt x 148.4825pt.
+
+Underfull \vbox (badness 1292) has occurred while \output is active []
+
+ [6 <./figures/results/obLabel/memScore_dist.png (PNG copy)> <./figures/results
+/obLabel/changeMem_numObs.png (PNG copy)>]
+<figures/results/obLabel/interaction_2.png, id=155, 709.00674pt x 435.9022pt>
+File: figures/results/obLabel/interaction_2.png Graphic file (type png)
+
+<use figures/results/obLabel/interaction_2.png>
+Package pdftex.def Info: figures/results/obLabel/interaction_2.png used on inpu
+t line 17.
+(pdftex.def)             Requested size: 198.73946pt x 122.1848pt.
 
 <figures/results/obLabel/inter-class/14.jpg, id=156, 339.2675pt x 501.875pt>
 File: figures/results/obLabel/inter-class/14.jpg Graphic file (type jpg)
@@ -979,21 +982,20 @@ obLabel/best-worst_obClasses/worst_obClasses/person_1.png (PNG copy)> <./figure
 s/results/obLabel/best-worst_obClasses/worst_obClasses/person_2.png (PNG copy)>
  <./figures/results/obLabel/best-worst_obClasses/worst_obClasses/vehicle_1.png 
 (PNG copy)> <./figures/results/obLabel/best-worst_obClasses/worst_obClasses/veh
-icle_2.png (PNG copy)> <./figures/results/obLabel/Inter-class_MemScore.png (PNG
- copy)> <./figures/results/obLabel/inter-class/14.jpg> <./figures/results/obLab
-el/inter-class/85.jpg> <./figures/results/obLabel/inter-class/10.jpg> <./figure
-s/results/obLabel/inter-class/128.jpg> <./figures/results/obLabel/inter-class/1
-02.jpg> <./figures/results/obLabel/inter-class/129.jpg> <./figures/results/obLa
-bel/inter-class/14.png (PNG copy)> <./figures/results/obLabel/inter-class/85.pn
-g (PNG copy)> <./figures/results/obLabel/inter-class/10.png (PNG copy)> <./figu
-res/results/obLabel/inter-class/128.png (PNG copy)> <./figures/results/obLabel/
-inter-class/102.png (PNG copy)> <./figures/results/obLabel/inter-class/129.png 
-(PNG copy)>]
+icle_2.png (PNG copy)> <./figures/results/obLabel/interaction_2.png> <./figures
+/results/obLabel/inter-class/14.jpg> <./figures/results/obLabel/inter-class/85.
+jpg> <./figures/results/obLabel/inter-class/10.jpg> <./figures/results/obLabel/
+inter-class/128.jpg> <./figures/results/obLabel/inter-class/102.jpg> <./figures
+/results/obLabel/inter-class/129.jpg> <./figures/results/obLabel/inter-class/14
+.png (PNG copy)> <./figures/results/obLabel/inter-class/85.png (PNG copy)> <./f
+igures/results/obLabel/inter-class/10.png (PNG copy)> <./figures/results/obLabe
+l/inter-class/128.png (PNG copy)> <./figures/results/obLabel/inter-class/102.pn
+g (PNG copy)> <./figures/results/obLabel/inter-class/129.png (PNG copy)>]
 Overfull \hbox (27.15141pt too wide) in paragraph at lines 9--16
  [] 
  []
 
-<figures/results/imMem/maxMem_scatter.png, id=217, 389.49727pt x 292.12294pt>
+<figures/results/imMem/maxMem_scatter.png, id=218, 389.49727pt x 292.12294pt>
 File: figures/results/imMem/maxMem_scatter.png Graphic file (type png)
 
 <use figures/results/imMem/maxMem_scatter.png>
@@ -1020,7 +1022,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
  8445 strings out of 493698
- 132998 string characters out of 3144403
+ 132953 string characters out of 3144403
  224793 words of memory out of 3000000
  11468 multiletter control sequences out of 15000+200000
  33625 words of font info for 69 fonts, out of 3000000 for 9000
@@ -1034,9 +1036,9 @@ urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/u
 hvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on egpaper_for_review.pdf (8 pages, 7969972 bytes).
+Output written on egpaper_for_review.pdf (8 pages, 8050755 bytes).
 PDF statistics:
- 290 PDF objects out of 1000 (max. 8388607)
+ 291 PDF objects out of 1000 (max. 8388607)
  101 named destinations out of 1000 (max. 500000)
  266 words of extra memory for PDF output out of 10000 (max. 10000000)
 
