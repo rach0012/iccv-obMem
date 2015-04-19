@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.10)  19 APR 2015 12:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.10)  19 APR 2015 12:42
 entering extended mode
 **C:/Users/rach0012/Documents/GitHub/iccv-obMem/latexFiles/egpaper_for_review.t
 ex
@@ -544,7 +544,12 @@ File: figures/results/simple_features/color_corrs.png Graphic file (type png)
  <use figures/results/simple_features/color_corrs.png>
 Package pdftex.def Info: figures/results/simple_features/color_corrs.png used o
 n input line 3.
-(pdftex.def)             Requested size: 198.73946pt x 142.3125pt.
+(pdftex.def)             Requested size: 248.42812pt x 177.89063pt.
+
+Overfull \hbox (11.29218pt too wide) in paragraph at lines 3--4
+ [][] 
+ []
+
 ) [3 <./figures/method/18.jpg> <./figures/method/1288.jpg> <./figures/method/14
 09.jpg> <./figures/method/filler5.jpg> <./figures/method/18_4.png (PNG copy)> <
 ./figures/method/1288.png (PNG copy)> <./figures/method/1409.png (PNG copy)> <.
@@ -555,9 +560,14 @@ File: figures/results/fixation/positions.png Graphic file (type png)
 <use figures/results/fixation/positions.png>
 Package pdftex.def Info: figures/results/fixation/positions.png used on input l
 ine 5.
-(pdftex.def)             Requested size: 198.73946pt x 73.93938pt.
+(pdftex.def)             Requested size: 248.42812pt x 92.42882pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (11.29218pt too wide) in paragraph at lines 5--6
+ [][] 
+ []
+
+
+Underfull \vbox (badness 6252) has occurred while \output is active []
 
  [4 <./figures/results/simple_features/color_corrs.png> <./figures/results/fixa
 tion/positions.png>]
@@ -567,9 +577,14 @@ File: figures/results/fixation/fixations.png Graphic file (type png)
 <use figures/results/fixation/fixations.png>
 Package pdftex.def Info: figures/results/fixation/fixations.png used on input l
 ine 18.
-(pdftex.def)             Requested size: 198.73946pt x 176.05304pt.
-) (objectLabel.tex (interclass.tex
-[5 <./figures/results/fixation/fixations.png>]
+(pdftex.def)             Requested size: 248.42812pt x 220.07506pt.
+
+Overfull \hbox (11.29218pt too wide) in paragraph at lines 18--19
+ [][] 
+ []
+
+) (objectLabel.tex (interclass.tex [5 <./figures/results/fixation/fixations.png
+>]
 <figures/results/obLabel/Average_MemScore.png, id=113, 778.99452pt x 504.36853p
 t>
 File: figures/results/obLabel/Average_MemScore.png Graphic file (type png)
@@ -937,15 +952,48 @@ File: figures/results/obLabel/inter-class/129.png Graphic file (type png)
 Package pdftex.def Info: figures/results/obLabel/inter-class/129.png used on in
 put line 34.
 (pdftex.def)             Requested size: 37.93066pt x 28.45274pt.
-)) (imageMem.tex
+)) (imageMem.tex [7 <./figures/results/obLabel/best-worst_obClasses/best_obClas
+ses/animal_1.png (PNG copy)> <./figures/results/obLabel/best-worst_obClasses/be
+st_obClasses/animal_2.png (PNG copy)> <./figures/results/obLabel/best-worst_obC
+lasses/best_obClasses/building_1.png (PNG copy)> <./figures/results/obLabel/bes
+t-worst_obClasses/best_obClasses/building_2.png (PNG copy)> <./figures/results/
+obLabel/best-worst_obClasses/best_obClasses/device_1.png (PNG copy)> <./figures
+/results/obLabel/best-worst_obClasses/best_obClasses/device_2.png (PNG copy)> <
+./figures/results/obLabel/best-worst_obClasses/best_obClasses/nature_1.png (PNG
+ copy)> <./figures/results/obLabel/best-worst_obClasses/best_obClasses/nature_2
+.png (PNG copy)> <./figures/results/obLabel/best-worst_obClasses/best_obClasses
+/person_1.png (PNG copy)> <./figures/results/obLabel/best-worst_obClasses/best_
+obClasses/person_2.png (PNG copy)> <./figures/results/obLabel/best-worst_obClas
+ses/best_obClasses/vehicle_1.png (PNG copy)> <./figures/results/obLabel/best-wo
+rst_obClasses/best_obClasses/vehicle_2.png (PNG copy)> <./figures/results/obLab
+el/best-worst_obClasses/worst_obClasses/animal_1.png (PNG copy)> <./figures/res
+ults/obLabel/best-worst_obClasses/worst_obClasses/animal_2.png (PNG copy)> <./f
+igures/results/obLabel/best-worst_obClasses/worst_obClasses/building_1.png (PNG
+ copy)> <./figures/results/obLabel/best-worst_obClasses/worst_obClasses/buildin
+g_2.png (PNG copy)> <./figures/results/obLabel/best-worst_obClasses/worst_obCla
+sses/device_1.png (PNG copy)> <./figures/results/obLabel/best-worst_obClasses/w
+orst_obClasses/device_2.png (PNG copy)> <./figures/results/obLabel/best-worst_o
+bClasses/worst_obClasses/nature_1.png (PNG copy)> <./figures/results/obLabel/be
+st-worst_obClasses/worst_obClasses/nature_2.png (PNG copy)> <./figures/results/
+obLabel/best-worst_obClasses/worst_obClasses/person_1.png (PNG copy)> <./figure
+s/results/obLabel/best-worst_obClasses/worst_obClasses/person_2.png (PNG copy)>
+ <./figures/results/obLabel/best-worst_obClasses/worst_obClasses/vehicle_1.png 
+(PNG copy)> <./figures/results/obLabel/best-worst_obClasses/worst_obClasses/veh
+icle_2.png (PNG copy)> <./figures/results/obLabel/Inter-class_MemScore.png (PNG
+ copy)> <./figures/results/obLabel/inter-class/14.jpg> <./figures/results/obLab
+el/inter-class/85.jpg> <./figures/results/obLabel/inter-class/10.jpg> <./figure
+s/results/obLabel/inter-class/128.jpg> <./figures/results/obLabel/inter-class/1
+02.jpg> <./figures/results/obLabel/inter-class/129.jpg> <./figures/results/obLa
+bel/inter-class/14.png (PNG copy)> <./figures/results/obLabel/inter-class/85.pn
+g (PNG copy)> <./figures/results/obLabel/inter-class/10.png (PNG copy)> <./figu
+res/results/obLabel/inter-class/128.png (PNG copy)> <./figures/results/obLabel/
+inter-class/102.png (PNG copy)> <./figures/results/obLabel/inter-class/129.png 
+(PNG copy)>]
 Overfull \hbox (27.15141pt too wide) in paragraph at lines 9--16
  [] 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<figures/results/imMem/maxMem_scatter.png, id=171, 389.49727pt x 292.12294pt>
+<figures/results/imMem/maxMem_scatter.png, id=217, 389.49727pt x 292.12294pt>
 File: figures/results/imMem/maxMem_scatter.png Graphic file (type png)
 
 <use figures/results/imMem/maxMem_scatter.png>
@@ -955,47 +1003,7 @@ Package pdftex.def Info: figures/results/imMem/maxMem_scatter.png used on input
 )) (egpaper_for_review.bbl
 (egpaper_for_review.brf)
 \tf@brf=\write3
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 9.
- [7 <./figures/results/obLabel/best-worst_obClasses/best_obClasses/animal_1.png
- (PNG copy)> <./figures/results/obLabel/best-worst_obClasses/best_obClasses/ani
-mal_2.png (PNG copy)> <./figures/results/obLabel/best-worst_obClasses/best_obCl
-asses/building_1.png (PNG copy)> <./figures/results/obLabel/best-worst_obClasse
-s/best_obClasses/building_2.png (PNG copy)> <./figures/results/obLabel/best-wor
-st_obClasses/best_obClasses/device_1.png (PNG copy)> <./figures/results/obLabel
-/best-worst_obClasses/best_obClasses/device_2.png (PNG copy)> <./figures/result
-s/obLabel/best-worst_obClasses/best_obClasses/nature_1.png (PNG copy)> <./figur
-es/results/obLabel/best-worst_obClasses/best_obClasses/nature_2.png (PNG copy)>
- <./figures/results/obLabel/best-worst_obClasses/best_obClasses/person_1.png (P
-NG copy)> <./figures/results/obLabel/best-worst_obClasses/best_obClasses/person
-_2.png (PNG copy)> <./figures/results/obLabel/best-worst_obClasses/best_obClass
-es/vehicle_1.png (PNG copy)> <./figures/results/obLabel/best-worst_obClasses/be
-st_obClasses/vehicle_2.png (PNG copy)> <./figures/results/obLabel/best-worst_ob
-Classes/worst_obClasses/animal_1.png (PNG copy)> <./figures/results/obLabel/bes
-t-worst_obClasses/worst_obClasses/animal_2.png (PNG copy)> <./figures/results/o
-bLabel/best-worst_obClasses/worst_obClasses/building_1.png (PNG copy)> <./figur
-es/results/obLabel/best-worst_obClasses/worst_obClasses/building_2.png (PNG cop
-y)> <./figures/results/obLabel/best-worst_obClasses/worst_obClasses/device_1.pn
-g (PNG copy)> <./figures/results/obLabel/best-worst_obClasses/worst_obClasses/d
-evice_2.png (PNG copy)> <./figures/results/obLabel/best-worst_obClasses/worst_o
-bClasses/nature_1.png (PNG copy)> <./figures/results/obLabel/best-worst_obClass
-es/worst_obClasses/nature_2.png (PNG copy)> <./figures/results/obLabel/best-wor
-st_obClasses/worst_obClasses/person_1.png (PNG copy)> <./figures/results/obLabe
-l/best-worst_obClasses/worst_obClasses/person_2.png (PNG copy)> <./figures/resu
-lts/obLabel/best-worst_obClasses/worst_obClasses/vehicle_1.png (PNG copy)> <./f
-igures/results/obLabel/best-worst_obClasses/worst_obClasses/vehicle_2.png (PNG 
-copy)> <./figures/results/obLabel/Inter-class_MemScore.png (PNG copy)> <./figur
-es/results/obLabel/inter-class/14.jpg> <./figures/results/obLabel/inter-class/8
-5.jpg> <./figures/results/obLabel/inter-class/10.jpg> <./figures/results/obLabe
-l/inter-class/128.jpg> <./figures/results/obLabel/inter-class/102.jpg> <./figur
-es/results/obLabel/inter-class/129.jpg> <./figures/results/obLabel/inter-class/
-14.png (PNG copy)> <./figures/results/obLabel/inter-class/85.png (PNG copy)> <.
-/figures/results/obLabel/inter-class/10.png (PNG copy)> <./figures/results/obLa
-bel/inter-class/128.png (PNG copy)> <./figures/results/obLabel/inter-class/102.
-png (PNG copy)> <./figures/results/obLabel/inter-class/129.png (PNG copy)>])
+)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 85.
  [8 <./figures/results/imMem/maxMem_scatter.png (PNG copy)>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
@@ -1011,13 +1019,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 8457 strings out of 493698
- 133121 string characters out of 3144403
+ 8445 strings out of 493698
+ 132998 string characters out of 3144403
  224793 words of memory out of 3000000
- 11476 multiletter control sequences out of 15000+200000
- 35689 words of font info for 76 fonts, out of 3000000 for 9000
+ 11468 multiletter control sequences out of 15000+200000
+ 33625 words of font info for 69 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 42i,12n,39p,2838b,481s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,12n,39p,2838b,377s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/font
@@ -1026,7 +1034,7 @@ urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/u
 hvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on egpaper_for_review.pdf (8 pages, 7969837 bytes).
+Output written on egpaper_for_review.pdf (8 pages, 7969972 bytes).
 PDF statistics:
  290 PDF objects out of 1000 (max. 8388607)
  101 named destinations out of 1000 (max. 500000)
