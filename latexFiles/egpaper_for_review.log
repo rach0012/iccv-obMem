@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.10)  20 APR 2015 06:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.10)  20 APR 2015 08:02
 entering extended mode
 **C:/Users/rach0012/Documents/GitHub/iccv-obMem/latexFiles/egpaper_for_review.t
 ex
@@ -466,12 +466,12 @@ File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 
  <./figures/introduction/113.png (PNG copy)> <./figures/introduction/intro.png>
 ] (relatedWork.tex)) (measuringObMem.tex
-<figures/method/main-task_v4.png, id=40, 1213.4133pt x 214.28055pt>
+<figures/method/main-task_v4.png, id=40, 1213.4133pt x 213.31696pt>
 File: figures/method/main-task_v4.png Graphic file (type png)
 
 <use figures/method/main-task_v4.png>
 Package pdftex.def Info: figures/method/main-task_v4.png used on input line 5.
-(pdftex.def)             Requested size: 496.85625pt x 87.74115pt.
+(pdftex.def)             Requested size: 496.85625pt x 87.34659pt.
  (memoryGame.tex
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
@@ -991,7 +991,7 @@ urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/u
 hvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on egpaper_for_review.pdf (8 pages, 11714070 bytes).
+Output written on egpaper_for_review.pdf (8 pages, 11719107 bytes).
 PDF statistics:
  272 PDF objects out of 1000 (max. 8388607)
  92 named destinations out of 1000 (max. 500000)
