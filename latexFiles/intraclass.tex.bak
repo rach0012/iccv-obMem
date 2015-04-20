@@ -1,4 +1,4 @@
-As demonstrated above, some object classes like animal, person, vehicle are more than others either due to their intrinsic property or external factors like occlusion, foreground/background etc. However, not all objects in a class are equally memorable. The examples in figure \ref{fig:qualLabel} show the most memorable and least memorable objects for each object class. A common property between these objects is that the least memorable objects within each object class tend to be occluded and obstructed by other objects. What other possible factors could influence the memorability of an object within a class?
+As demonstrated above, some object classes like animal, person, vehicle are more memorable than others either due to various factors. However, not all objects in a class are equally memorable. The examples in figure \ref{fig:qualLabel} show the most memorable and least memorable objects for each object class. A common property between these objects is that the least memorable objects within each object class tend to be occluded and obstructed by other objects. What other possible factors could influence the memorability of an object within a class?
 
 \input{qualFigure}
 
@@ -6,7 +6,7 @@ As demonstrated above, some object classes like animal, person, vehicle are more
 
 \begin{figure}[t]
 \centering
-\subfigure{\centering \includegraphics[width=0.4\textwidth]{figures/results/obLabel/Change_MemScore.png}}
+\subfigure{\centering \includegraphics[width=0.4\textwidth]{figures/results/obLabel/changeMem_numObs.png}}
 \vspace{-5mm}\caption{\footnotesize\textbf{Correlation between object class and number of objects.} add-in later. }\label{fig:obLabelChange}
 \end{figure}
 
@@ -14,7 +14,7 @@ As demonstrated above, some object classes like animal, person, vehicle are more
 
 \begin{figure}[h]
 \centering
-\subfigure{\centering \includegraphics[width=0.4\textwidth]{figures/results/obLabel/interaction_2.png}}
+\subfigure{\centering \includegraphics[width=0.5\textwidth]{figures/results/obLabel/interaction_2.png}}
 \vspace{-5mm}\caption{\footnotesize\textbf{inter-class object memorability relationship.} add-in later. }\label{fig:obLabelPair}
 \end{figure}
 

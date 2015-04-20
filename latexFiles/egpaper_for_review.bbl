@@ -29,6 +29,12 @@ P.~Isola, J.~Xiao, A.~Torralba, and A.~Oliva.
 \newblock In {\em Computer Vision and Pattern Recognition (CVPR), 2011 IEEE
   Conference on}, pages 145--152. IEEE, 2011.
 
+\bibitem{judd09}
+T.~Judd, K.~Ehinger, F.~Durand, and A.~Torralba.
+\newblock Learning to predict where humans look.
+\newblock In {\em Computer Vision, 2009 IEEE 12th international conference on},
+  pages 2106--2113. IEEE, 2009.
+
 \bibitem{khosla12}
 A.~Khosla, J.~Xiao, A.~Torralba, and A.~Oliva.
 \newblock Memorability of image regions.
@@ -75,5 +81,10 @@ C.~Yang, L.~Zhang, H.~Lu, X.~Ruan, and M.-H. Yang.
 \newblock Saliency detection via graph-based manifold ranking.
 \newblock In {\em Computer Vision and Pattern Recognition (CVPR), 2013 IEEE
   Conference on}, pages 3166--3173. IEEE, 2013.
+
+\bibitem{sun08}
+L.~Zhang, M.~H. Tong, T.~K. Marks, H.~Shan, and G.~W. Cottrell.
+\newblock Sun: A bayesian framework for saliency using natural statistics.
+\newblock {\em Journal of vision}, 8(7):32, 2008.
 
 \end{thebibliography}
