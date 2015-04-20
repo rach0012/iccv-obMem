@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.10)  21 APR 2015 03:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.10)  21 APR 2015 04:29
 entering extended mode
 **C:/Users/rach0012/Documents/GitHub/iccv-obMem/latexFiles/egpaper_for_review.t
 ex
@@ -575,13 +575,13 @@ nput line 7.
 Underfull \vbox (badness 1127) has occurred while \output is active []
 
 
-<figures/results/obLabel/confusionMatrix.png, id=134, 732.8178pt x 465.1779pt>
+<figures/results/obLabel/confusionMatrix.png, id=134, 754.9806pt x 465.1779pt>
 File: figures/results/obLabel/confusionMatrix.png Graphic file (type png)
 
 <use figures/results/obLabel/confusionMatrix.png>
 Package pdftex.def Info: figures/results/obLabel/confusionMatrix.png used on in
 put line 15.
-(pdftex.def)             Requested size: 248.42812pt x 157.69702pt.
+(pdftex.def)             Requested size: 248.42812pt x 153.06909pt.
 
 Overfull \hbox (11.29218pt too wide) in paragraph at lines 15--16
  [][] 
@@ -684,6 +684,13 @@ put line 32.
 (pdftex.def)             Requested size: 41.72511pt x 31.2982pt.
 )) (imageMem.tex [6 <./figures/results/obLabel/memScore_change2.png> <./figures
 /results/obLabel/confusionMatrix.png>]
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+
 Overfull \hbox (91.08151pt too wide) in paragraph at lines 8--13
 [][] 
  []
@@ -730,7 +737,7 @@ urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/u
 hvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on egpaper_for_review.pdf (7 pages, 12619774 bytes).
+Output written on egpaper_for_review.pdf (7 pages, 12686320 bytes).
 PDF statistics:
  245 PDF objects out of 1000 (max. 8388607)
  70 named destinations out of 1000 (max. 500000)
