@@ -12,6 +12,6 @@ In this section, we aim to better understand object memorability and the factors
 
 \input{objectLabel} 
 
-\subsection{What is the relationship between object memorability and object categories?}
+\subsection{What is the relationship between object and image memorability?}
 
-\input{objectLabel} 
+\input{imageMem} 
