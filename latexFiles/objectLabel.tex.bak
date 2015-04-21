@@ -4,8 +4,7 @@ In the previous sections, we showed that simple features have little predictive 
 
 \input{interclass}
 
-\subsection{What drives object class memorability?}
-%\subsubsection{Why are some objects not memorable within a class?}
+\subsubsection{Why are some objects not memorable within a class?}
 
 \input{intraclass}
 

@@ -1,0 +1,15 @@
+In this section, we briefly discuss existing work related to visual memory and image memorability.
+
+
+
+%http://cvcl.mit.edu/papers/IsolaXiaoTorralbaOliva-PredictingImageMemory-CVPR2011.pdf​ ​ In summary, in this paper, a large dataset of images is released wherein the authors ran experiments on human subjects and quantified how memorable each image is. They also ran various analysis on what makes an image more memorable than others. For example, aesthetically pleasing images like landscapes etc are less memorable than an image containing a person. Subsequently, they have showed using computer vision algorithms that they can predict the memorability of images automatically with high accuracy.
+%
+%http://web.mit.edu/jxiao/Public/publication/2012/NIPSmemorability/paper.pdf​ is a follow up work done by the same authors and is related to memorability of regions in an image i.e. some regions in an image will be more memorable than others. If you go to Figure 4 (pg 7), the authors have built 'memorability maps' for each image via computer vision algorithms. Basically this means that for every pixel (and consequently a region) in an image, their algorithm outputs a memorability value. They then used these memorability maps to predict image memorability from the dataset in the first paper with even greater accuracy. Do note that they have not collected any actual ground truth memorability maps i.e. we still don't know what regions/objects humans consider more memorable in an image.
+
+\textbf{Image Memorability: } Describe Isola's first paper n some insights that have been raised on image memorability thus far. Also describe Khosla's comp model but we are the first work to actually describe what humans actually remember and don't
+
+\textbf{Visual Saliency: } Talk about visual attention and models that have been proposed. Also, talk about Pascal-S and how it has helped reduce dataset bias
+
+\textbf{Saliency and memorability: } discuss some results related to saliency and image memorability.
+
+and talk about our work plans on connecting and shedding light on all these phenomena together. 
