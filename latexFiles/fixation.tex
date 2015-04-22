@@ -7,9 +7,10 @@ Intuitively, we expect that objects within an image that are most salient are li
 \end{figure}
 
 
-To address this query, we utilize the eye fixation data made available for the Pascal-S dataset \cite{yin14}. First, we compute the number of unique fixation points within the image segment of each object and the correlation between this metric and the object’s memorability score (refer to Figure \ref{fig:scatterFixation} (\emph{left})). We find this correlation to be positive and considerably high ($\rho = 0.71$), suggesting that fixation count and visual saliency may drive object memorability considerably. However, the large concentration of points on the bottom left part of the scatter plot in Figure \ref{fig:scatterFixation} (\emph{left}) suggests that part of the reason for this high correlation is that objects that have not been viewed \B{you mean they have no fixation points in them?} at all have essentially no memorability. Indeed, only objects that have been seen can be remembered. In addition, the points toward the top left appear to decrease in trend \B{what does this mean?}. To further investigate this point, we plot the change in correlation between object memorability and fixations as the minimum number of fixations inside objects increases \B{switching between figures like this isnt advisable. I suggest that you put the figures you want to talk about first together.}.
+To address this query, we utilize the eye fixation data made available for the Pascal-S dataset \cite{yin14}. First, we compute the number of unique fixation points within the image segment of each object and the correlation between this metric and the object’s memorability score (refer to Figure \ref{fig:scatterFixation} (\emph{left})). We find this correlation to be positive and considerably high ($\rho = 0.71$), suggesting that fixation count and visual saliency may drive object memorability considerably. However, the large concentration of points on the bottom left part of the scatter plot in Figure \ref{fig:scatterFixation} (\emph{left}) suggests that part of the reason for this high correlation is that objects that have not been viewed \B{you mean they have no fixation points in them?} at all have essentially no memorability. Indeed, only objects that have been seen can be remembered. In addition, the points toward the top left appear to decrease in trend \B{what does this mean?}. To further investigate this point, we plot the change in correlation between object memorability and fixations as the minimum number of fixations inside objects increases. For each minimum fixation count, we compute the memorability-fixation correlation again but \emph{only} using objects that contain at least this number of fixations (refer to Figure \ref{fig:fixCorr} (\emph{right})). \B{switching between figures like this isnt advisable. I suggest that you put the figures you want to talk about first together.}. The decreasing trend in correlation indicates that as the number of fixations inside an object increases, the predictive ability diminishes significantly. \B{what's the intuition behind this behavior?} In addition, Figure \ref{fig:fixCorr} (\emph{left}) plots this correlation as a function of total number of objects in an image. Interestingly, as the number of objects in an image increases, the correlation between saliency, i.e. number of fixations, and memorability decreases sharply. This finding is in agreement with the two remaining scatter plots in Figure \ref{fig:scatterFixation} (\emph{middle}) and (\emph{right}). This makes intuitive sense, since people have more to look at in an image when more objects are present. In this case, they tend to look less at any single object, especially if some of these objects compete for saliency, and therefore may have a more difficult time remembering those objects.
 
-Looking deeper, Figure \ref{fig:fixCorr}  The decreasing trend indicates that as the number of fixations inside an object increases, the predictive ability diminishes significantly. In addition, Figure \ref{fig:fixCorr} plots the correlation between object memorability and number of fixations as a function of total number of objects in an image. Similar to the previous trend, as the number of objects in an image increases, the correlation between saliency i.e. number of fixations and memorability score decreases sharply. This finding is in agreement with the two remaining scatter plots in Figure \ref{fig:scatterFixation} b (shows that the memorability of an object decreases in the presence of many other objects) and Figure \ref{fig:scatterFixation} c (shows that number of fixations decreases with the number of objects). This makes intuitive sense since people have more to look at in an image when more objects are present, and so they may look less at any one object, especially if they compete for saliency, and therefore may have a more difficult time remembering those objects.
+
+%(shows that the memorability of an object decreases in the presence of many other objects) and Figure \ref{fig:scatterFixation} c (shows that number of fixations decreases with the number of objects). This makes intuitive sense since people have more to look at in an image when more objects are present, and so they may look less at any one object, especially if they compete for saliency, and therefore may have a more difficult time remembering those objects.
 
 \begin{figure}[!htb]
 \centering
@@ -17,11 +18,18 @@ Looking deeper, Figure \ref{fig:fixCorr}  The decreasing trend indicates that as
 \vspace{-5mm}\caption{\footnotesize\textbf{Correlation between object memorability and number of fixations.} add-in later. }\label{fig:fixCorr}
 \end{figure}
 
-To sum up, saliency is a surprisingly good index of object memorability in simple contexts where there are few objects in the image, or when an object has few interesting points, but it is a much weaker predictor of object memorability in complex scenes containing multiple objects that have many points of interest (Figure \ref{fig:fixQual}).
+In summary, saliency is a surprisingly good predictor of object memorability in simple contexts where few objects exist in an image or when an object has few interesting points, but it is a much weaker predictor of object memorability in complex scenes containing multiple objects that have many points of interest (refer to Figure \ref{fig:fixQual} for examples).
+
+\begin{figure}[!htb]
+\centering
+\subfigure{\centering \includegraphics[width=0.45\textwidth]{figures/results/fixation/qual/qual.png}}
+\vspace{-5mm}\caption{\footnotesize\textbf{Saliency Fail cases.} add-in later. }\label{fig:fixQual}
+\end{figure}
 
 
+\noindent\textbf{Center Bias: } Figure \ref{fig:fixPos} illustrates another example where saliency and memorability diverge. Previous studies related to visual saliency have shown that saliency is heavily influenced by center bias \cite{judd09,sun08}, primarily due to photographer bias (also evident in Figure \ref{fig:fixPos} (\emph{left})) and viewing strategy \cite{tseng2009}. Since our data collection experiment tries to control for the viewing strategy, memorability exhibits comparatively less center bias than saliency. This is most apparent when considering the difference in the solid ellipse in the right plot (shows where $95\%$ of fixations are located), and the dashed ellipse (shows where $95\%$ of the above-median memorable objects are located).
 
-\textbf{Center Bias: } Figure \ref{fig:fixPos} elucidates another example where saliency and memorability diverge. Previous studies related to visual saliency have showed that saliency is heavily influenced by center bias \cite{judd09}, \cite{sun08}, primarily due to photographer bias (also evident from the leftmost plot in Figure \ref{fig:fixPos}) and viewing strategy \cite{tseng2009}. Since our data collection experiment tries to control for the viewing strategy, memorability exhibits comparatively less center bias than saliency. This is most apparent when considering the difference in the solid ellipse in the right plot (shows where $95\%$ of fixation positions are located), and the dashed ellipse (shows where the $95\%$ of the above-median memorable objects are located).
+To the best of our knowledge, this work is the first to give an in-depth study of the relationship between saliency and memorability and to highlight how the two phenomena differ from each other.
 
 %Our work serves as the first direct evidence that saliency and memorability differ from each other by exploring the differences and overlap between the two.
 %To the best of our knowledge, our work is the first to show the differences and overlap between saliency and memorability and how the two phenomena differ from each other.
@@ -29,13 +37,9 @@ To sum up, saliency is a surprisingly good index of object memorability in simpl
 \begin{figure}[t]
 \centering
 \subfigure{\centering \includegraphics[width=0.45\textwidth]{figures/results/fixation/positions_final.png}}
-\vspace{-5mm}\caption{\footnotesize\textbf{Positions.} add-in later. }\label{fig:fixPos}
+\vspace{-5mm}\caption{\footnotesize\textbf{Positions.} add-in later. \B{very busy figure. needs a good caption. Make lines in the rightmost figure different colors to maximize contrast.}\B{what is CBB and COM in the legend?}}\label{fig:fixPos}
 \end{figure}
 
-\begin{figure}[t]
-\centering
-\subfigure{\centering \includegraphics[width=0.45\textwidth]{figures/results/fixation/qual/qual.png}}
-\vspace{-5mm}\caption{\footnotesize\textbf{Saliency Fail cases.} add-in later. }\label{fig:fixQual}
-\end{figure}
+
 
 
