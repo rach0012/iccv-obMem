@@ -16,6 +16,7 @@
 \usepackage{graphicx}
 \usepackage{caption}
 \usepackage{enumerate}
+
 % Include other packages here, before hyperref.
 
 % If you comment hyperref and then uncomment it, you should delete
@@ -75,6 +76,7 @@ First line of institution2 address\\
 
 \section{Predicting Object Memorability}
 
+\input{predictingObMem}
 here the benchmarking and baseline code comes up
 
 {\small
