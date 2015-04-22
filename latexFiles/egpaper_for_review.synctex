@@ -1,67 +1,67 @@
 SyncTeX Version:1
-Input:1:C:/Users/rach0012/Documents/GitHub/iccv-obMem/latexFiles/egpaper_for_review.tex
-Input:2:C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
-Input:3:C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo
-Input:4:iccv.sty
-Input:5:C:\Program Files\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty
-Input:6:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty
-Input:7:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
-Input:8:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
-Input:9:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
-Input:10:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
-Input:11:C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
-Input:12:C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg
-Input:13:C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def
-Input:14:C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty
-Input:15:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty
-Input:16:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\epsfig.sty
-Input:17:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
-Input:18:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
-Input:19:C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
-Input:20:C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg
-Input:21:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
-Input:22:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
-Input:23:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
-Input:24:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
-Input:25:C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
-Input:26:C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
-Input:27:C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
-Input:28:C:\Program Files\MiKTeX 2.9\tex\latex\subfloat\subfloat.sty
-Input:29:C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty
-Input:30:C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg
-Input:31:C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty
-Input:32:C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty
-Input:33:C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty
-Input:34:C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty
-Input:35:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
-Input:36:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
-Input:37:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
-Input:38:C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
-Input:39:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
-Input:40:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
-Input:41:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
-Input:42:C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
-Input:43:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\backref.sty
-Input:44:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
-Input:45:C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
-Input:46:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
-Input:47:egpaper_for_review.aux
-Input:48:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd
-Input:49:C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii
-Input:50:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
-Input:51:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
-Input:52:C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
-Input:53:C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
-Input:54:abstract.tex
-Input:55:introduction.tex
-Input:56:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd
+Input:1:C:/Users/ghanembs/Documents/KAUST/projects/ICCV2015/objMemorability/latexFiles/egpaper_for_review.tex
+Input:2:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls
+Input:3:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo
+Input:4:C:\Users\ghanembs\Documents\KAUST\projects\ICCV2015\objMemorability\latexFiles\iccv.sty
+Input:5:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty
+Input:6:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty
+Input:7:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+Input:8:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+Input:9:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+Input:10:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+Input:11:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+Input:12:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg
+Input:13:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def
+Input:14:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\xspace.sty
+Input:15:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\times.sty
+Input:16:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\epsfig.sty
+Input:17:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+Input:18:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+Input:19:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty
+Input:20:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg
+Input:21:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+Input:22:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+Input:23:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+Input:24:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+Input:25:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+Input:26:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+Input:27:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+Input:28:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfloat\subfloat.sty
+Input:29:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty
+Input:30:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg
+Input:31:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\verbatim.sty
+Input:32:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty
+Input:33:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty
+Input:34:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\enumerate.sty
+Input:35:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+Input:36:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+Input:37:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+Input:38:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+Input:39:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+Input:40:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+Input:41:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+Input:42:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+Input:43:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\backref.sty
+Input:44:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+Input:45:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty
+Input:46:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+Input:47:C:\Users\ghanembs\Documents\KAUST\projects\ICCV2015\objMemorability\latexFiles\egpaper_for_review.aux
+Input:48:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd
+Input:49:C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii
+Input:50:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+Input:51:C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+Input:52:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+Input:53:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+Input:54:C:\Users\ghanembs\Documents\KAUST\projects\ICCV2015\objMemorability\latexFiles\abstract.tex
+Input:55:C:\Users\ghanembs\Documents\KAUST\projects\ICCV2015\objMemorability\latexFiles\introduction.tex
+Input:56:C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd
 Output:pdf
 Magnification:1000
 Unit:1
 X Offset:0
 Y Offset:0
 Content:
-!3727
+!4371
 {1
 [55,13:4736286,48736910:31122136,44000624,0
 h55,13:4736286,4736286:0,0,0
@@ -2417,9 +2417,9 @@ k55,10:30530859,34709095:141627
 x55,10:31004018,34709095
 x55,10:31804857,34709095
 x55,10:32824583,34709095
-k55,10:32966210,34709095:141627
-x55,10:33476073,34709095
-k55,10:33617701,34709095:141628
+k55,10:32966211,34709095:141628
+x55,10:33476074,34709095
+k55,10:33617701,34709095:141627
 x55,10:34418540,34709095
 k55,10:34560167,34709095:141627
 x55,10:35251558,34709095
@@ -2646,11 +2646,11 @@ x55,10:31412867,41000551
 x55,10:31688122,41000551
 k55,10:31904482,41000551:216360
 x55,10:33178489,41000551
-k55,10:33394849,41000551:216360
-x55,10:33685825,41000551
-x55,10:34003681,41000551
-x55,10:34986703,41000551
-k55,10:35203062,41000551:216359
+k55,10:33394848,41000551:216359
+x55,10:33685824,41000551
+x55,10:34003680,41000551
+x55,10:34986702,41000551
+k55,10:35203062,41000551:216360
 x55,10:35858422,41000551
 k55,10:35858422,41000551:0
 )
@@ -2879,10 +2879,10 @@ g55,13:15540941,0
 ]
 !70850
 }1
-Input:57:relatedWork.tex
-Input:58:measuringObMem.tex
-Input:59:memoryGame.tex
-!87
+Input:57:C:\Users\ghanembs\Documents\KAUST\projects\ICCV2015\objMemorability\latexFiles\relatedWork.tex
+Input:58:C:\Users\ghanembs\Documents\KAUST\projects\ICCV2015\objMemorability\latexFiles\measuringObMem.tex
+Input:59:C:\Users\ghanembs\Documents\KAUST\projects\ICCV2015\objMemorability\latexFiles\memoryGame.tex
+!324
 {2
 [58,11:4736286,48736910:31122136,44000624,0
 [58,11:4736286,4736286:0,0,0
@@ -5154,9 +5154,9 @@ x58,2:20900089,14828830
 x58,1:21217945,14828830
 k58,1:21426977,14828830:209032
 x58,1:22354952,14828830
-k58,1:22575282,14828830:220330
-x58,1:23121186,14828830
-k58,1:23330217,14828830:209031
+k58,1:22575281,14828830:220329
+x58,1:23121185,14828830
+k58,1:23330217,14828830:209032
 x58,1:24458727,14828830
 k58,1:24667759,14828830:209032
 x58,1:25213663,14828830
@@ -5514,9 +5514,9 @@ x59,1:23693726,26252868
 x59,1:24858286,26252868
 k59,1:24999445,26252868:141159
 x59,1:25945781,26252868
-k59,1:26086941,26252868:141160
-x59,1:26560100,26252868
-k59,1:26701259,26252868:141159
+k59,1:26086940,26252868:141159
+x59,1:26560099,26252868
+k59,1:26701259,26252868:141160
 x59,1:26992235,26252868
 k59,1:27133394,26252868:141159
 x59,1:28462439,26252868
@@ -5524,11 +5524,11 @@ k59,1:28608135,26252868:145696
 x59,1:29773349,26252868
 k59,1:29914508,26252868:141159
 x59,1:30205484,26252868
-k59,1:30346644,26252868:141160
-$59,1:30346644,26252868
-x59,1:31184051,26252868
-$59,1:31184051,26252868
-k59,1:31325210,26252868:141159
+k59,1:30346643,26252868:141159
+$59,1:30346643,26252868
+x59,1:31184050,26252868
+$59,1:31184050,26252868
+k59,1:31325210,26252868:141160
 x59,1:32162090,26252868
 x59,1:33145130,26252868
 k59,1:33286289,26252868:141159
@@ -6320,12 +6320,12 @@ g58,11:15540941,0
 )
 ]
 ]
-!86888
+!86889
 }2
-Input:60:consistency.tex
-Input:61:understandingObMem.tex
-Input:62:simple.tex
-!87
+Input:60:C:\Users\ghanembs\Documents\KAUST\projects\ICCV2015\objMemorability\latexFiles\consistency.tex
+Input:61:C:\Users\ghanembs\Documents\KAUST\projects\ICCV2015\objMemorability\latexFiles\understandingObMem.tex
+Input:62:C:\Users\ghanembs\Documents\KAUST\projects\ICCV2015\objMemorability\latexFiles\simple.tex
+!324
 {3
 [62,8:4736286,48736910:31122136,44000624,9168
 [62,8:4736286,4736286:0,0,0
@@ -7199,10 +7199,10 @@ x59,3:10336147,19178468
 x59,3:10620570,19178468
 x59,3:11494799,19178468
 x59,3:12404422,19178468
-k59,3:12584391,19178468:179969
-x59,3:13276437,19178468
-x59,3:14440997,19178468
-k59,3:14620967,19178468:179970
+k59,3:12584392,19178468:179970
+x59,3:13276438,19178468
+x59,3:14440998,19178468
+k59,3:14620967,19178468:179969
 x59,3:15130830,19178468
 k59,3:15310800,19178468:179970
 x59,3:16111639,19178468
@@ -7973,10 +7973,10 @@ x58,11:4206739,40412132
 x58,11:5407985,40412132
 k59,3:5573784,40412132:165799
 x59,3:6556806,40412132
-k59,3:6722604,40412132:165798
-x59,3:7341260,40412132
-x59,3:9051722,40412132
-k59,3:9217521,40412132:165799
+k59,3:6722605,40412132:165799
+x59,3:7341261,40412132
+x59,3:9051723,40412132
+k59,3:9217521,40412132:165798
 x59,3:9836177,40412132
 x59,3:11401151,40412132
 k59,3:11566950,40412132:165799
@@ -7986,9 +7986,9 @@ x59,3:13370476,40412132
 x59,3:13661452,40412132
 x59,3:14025818,40412132
 x59,3:15045544,40412132
-k59,3:15211342,40412132:165798
-x59,3:15757254,40412132
-k59,3:15923053,40412132:165799
+k59,3:15211343,40412132:165799
+x59,3:15757255,40412132
+k59,3:15923053,40412132:165798
 x59,3:16906075,40412132
 k59,3:17071874,40412132:165799
 x59,3:17727234,40412132
@@ -8955,10 +8955,10 @@ g62,8:15540941,0
 )
 ]
 ]
-!64533
+!64534
 }3
-Input:63:fixation.tex
-!32
+Input:63:C:\Users\ghanembs\Documents\KAUST\projects\ICCV2015\objMemorability\latexFiles\fixation.tex
+!111
 {4
 [63,28:4736286,48736910:31122136,44000624,0
 [63,28:4736286,4736286:0,0,0
@@ -11532,9 +11532,9 @@ k63,11:21017324,26078983:189980
 x63,11:21818163,26078983
 k63,11:22008143,26078983:189980
 x63,11:23773661,26078983
-k63,11:23970176,26078983:196515
-x63,11:24516088,26078983
-k63,11:24706069,26078983:189981
+k63,11:23970177,26078983:196516
+x63,11:24516089,26078983
+k63,11:24706069,26078983:189980
 x63,11:26125573,26078983
 k63,11:26315553,26078983:189980
 x63,11:26934209,26078983
@@ -12077,12 +12077,12 @@ g63,28:15540941,0
 )
 ]
 ]
-!78097
+!78098
 }4
-Input:64:objectLabel.tex
-Input:65:interclass.tex
-Input:66:intraclass.tex
-!83
+Input:64:C:\Users\ghanembs\Documents\KAUST\projects\ICCV2015\objMemorability\latexFiles\objectLabel.tex
+Input:65:C:\Users\ghanembs\Documents\KAUST\projects\ICCV2015\objMemorability\latexFiles\interclass.tex
+Input:66:C:\Users\ghanembs\Documents\KAUST\projects\ICCV2015\objMemorability\latexFiles\intraclass.tex
+!320
 {5
 [66,2:4736286,48736910:31122136,44000624,9168
 [66,2:4736286,4736286:0,0,0
@@ -13963,9 +13963,9 @@ x65,3:22601381,27654056
 k65,3:22753737,27654056:152356
 x65,3:23372393,27654056
 x65,3:24391464,27654056
-k65,3:24543821,27654056:152357
-x65,3:25672340,27654056
-k65,3:25824696,27654056:152356
+k65,3:24543820,27654056:152356
+x65,3:25672339,27654056
+k65,3:25824696,27654056:152357
 x65,3:26334559,27654056
 k65,3:26486915,27654056:152356
 x65,3:27105571,27654056
@@ -14546,9 +14546,9 @@ x66,1:31406971,45984398
 x66,1:31916179,45984398
 x66,1:32608225,45984398
 x66,1:33300271,45984398
-k66,1:33473601,45984398:173330
-x66,1:34019513,45984398
-k66,1:34192844,45984398:173331
+k66,1:33473602,45984398:173331
+x66,1:34019514,45984398
+k66,1:34192844,45984398:173330
 x66,1:34811500,45984398
 k66,1:34984830,45984398:173330
 x66,1:35640190,45984398
@@ -14619,10 +14619,10 @@ g66,2:15540941,0
 )
 ]
 ]
-!62353
+!62354
 }5
-Input:67:imageMem.tex
-!32
+Input:67:C:\Users\ghanembs\Documents\KAUST\projects\ICCV2015\objMemorability\latexFiles\imageMem.tex
+!111
 {6
 [67,2:4736286,48736910:31122136,44000624,9168
 [67,2:4736286,4736286:0,0,0
@@ -17263,10 +17263,10 @@ g67,2:15540941,0
 )
 ]
 ]
-!66168
+!66169
 }6
-Input:68:predictingObMem.tex
-!39
+Input:68:C:\Users\ghanembs\Documents\KAUST\projects\ICCV2015\objMemorability\latexFiles\predictingObMem.tex
+!118
 {7
 [68,5:4736286,48736910:31122136,44000624,4912
 [68,5:4736286,4736286:0,0,0
@@ -19289,13 +19289,13 @@ x66,33:30185129,10488381
 k66,33:30376238,10488381:191109
 x66,33:30900526,10488381
 x66,33:31265953,10488381
-k66,33:31457061,10488381:191108
-x66,33:32505624,10488381
-x66,33:32767768,10488381
-x66,33:33175135,10488381
-x66,33:33728773,10488381
-x66,33:34282411,10488381
-k66,33:34473520,10488381:191109
+k66,33:31457062,10488381:191109
+x66,33:32505625,10488381
+x66,33:32767769,10488381
+x66,33:33175136,10488381
+x66,33:33728774,10488381
+x66,33:34282412,10488381
+k66,33:34473520,10488381:191108
 x66,33:34910250,10488381
 k66,33:35101359,10488381:191109
 x66,33:35509250,10488381
@@ -19865,9 +19865,9 @@ x67,5:31605714,25819780
 x67,5:32114922,25819780
 x67,5:32806968,25819780
 x67,5:33499014,25819780
-k67,5:33768766,25819780:269752
-x67,5:35151558,25819780
-k67,5:35421311,25819780:269753
+k67,5:33768767,25819780:269753
+x67,5:35151559,25819780
+k67,5:35421311,25819780:269752
 x67,5:35858422,25819780
 k67,5:35858422,25819780:0
 )
@@ -20519,9 +20519,9 @@ x68,4:28352642,45984398
 k68,4:28619766,45984398:267124
 x68,4:29202374,45984398
 x68,4:30039917,45984398
-k68,4:30307041,45984398:267124
-x68,4:31963777,45984398
-k68,4:32230902,45984398:267125
+k68,4:30307042,45984398:267125
+x68,4:31963778,45984398
+k68,4:32230902,45984398:267124
 x68,4:32521878,45984398
 k68,4:32789003,45984398:267125
 x68,4:34717706,45984398
@@ -20595,11 +20595,11 @@ g68,5:15540941,0
 )
 ]
 ]
-!81676
+!81677
 }7
-Input:69:egpaper_for_review.bbl
-Input:70:egpaper_for_review.brf
-!74
+Input:69:C:\Users\ghanembs\Documents\KAUST\projects\ICCV2015\objMemorability\latexFiles\egpaper_for_review.bbl
+Input:70:C:\Users\ghanembs\Documents\KAUST\projects\ICCV2015\objMemorability\latexFiles\egpaper_for_review.brf
+!232
 {8
 [69,38:4736286,48736910:31122136,44000624,9168
 [69,38:4736286,4736286:0,0,0
@@ -21668,9 +21668,9 @@ k68,6:8327056,18090112:196430
 x68,6:8872960,18090112
 x68,6:9190816,18090112
 x68,6:10756446,18090112
-k68,6:10952876,18090112:196430
-x68,6:11899212,18090112
-k68,6:12095643,18090112:196431
+k68,6:10952877,18090112:196431
+x68,6:11899213,18090112
+k68,6:12095643,18090112:196430
 x68,6:13296897,18090112
 k68,6:13493327,18090112:196430
 x68,6:15349959,18090112
@@ -22114,9 +22114,9 @@ x68,6:11153314,29100160
 k68,6:11372505,29100160:219191
 x68,6:12537065,29100160
 x68,6:13520087,29100160
-k68,6:13739333,29100160:219246
-x68,6:14176444,29100160
-k68,6:14395691,29100160:219247
+k68,6:13739334,29100160:219247
+x68,6:14176445,29100160
+k68,6:14395691,29100160:219246
 x68,6:15233234,29100160
 x68,6:15851890,29100160
 x68,6:17962785,29100160
@@ -22577,9 +22577,9 @@ k68,6:7100976,42469504:176354
 x68,6:9339646,42469504
 k68,6:9580347,42469504:240701
 x68,6:11054899,42469504
-k68,6:11234381,42469504:179482
-x68,6:11998525,42469504
-k68,6:12174879,42469504:176354
+k68,6:11234382,42469504:179483
+x68,6:11998526,42469504
+k68,6:12174879,42469504:176353
 x68,6:12975063,42469504
 x68,6:13812606,42469504
 x68,6:15268805,42469504
@@ -23768,7 +23768,7 @@ g69,38:15540941,0
 )
 ]
 ]
-!78850
+!78851
 }8
 !10
 {9
@@ -27928,9 +27928,9 @@ g1,87:15540941,0
 ]
 !14371
 }10
-Input:71:egpaper_for_review.aux
-!43
+Input:71:C:\Users\ghanembs\Documents\KAUST\projects\ICCV2015\objMemorability\latexFiles\egpaper_for_review.aux
+!122
 Postamble:
 Count:14714
-!27
+!28
 Post scriptum:
