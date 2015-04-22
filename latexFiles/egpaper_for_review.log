@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.10)  22 APR 2015 08:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.10)  22 APR 2015 11:06
 entering extended mode
 **C:/Users/rach0012/Documents/GitHub/iccv-obMem/latexFiles/egpaper_for_review.t
 ex
@@ -522,14 +522,14 @@ Overfull \hbox (11.29218pt too wide) in paragraph at lines 15--16
 [4 <./figures/results/simple_features/color_corrs.png> <./figures/results/fixat
 ion/mem-fix-corr-by-factors.png> <./figures/results/fixation/fix_corr_set.png>]
 
-<figures/results/fixation/positions_final.png, id=112, 776.9025pt x 273.1806pt>
+<figures/results/fixation/positions_final.png, id=113, 776.9025pt x 273.1806pt>
 File: figures/results/fixation/positions_final.png Graphic file (type png)
 <use figures/results/fixation/positions_final.png>
 Package pdftex.def Info: figures/results/fixation/positions_final.png used on i
 nput line 26.
 (pdftex.def)             Requested size: 223.58379pt x 78.61592pt.
 
-<figures/results/fixation/qual/qual.png, id=113, 779.16093pt x 466.74374pt>
+<figures/results/fixation/qual/qual.png, id=114, 779.16093pt x 466.74374pt>
 File: figures/results/fixation/qual/qual.png Graphic file (type png)
 
 <use figures/results/fixation/qual/qual.png>
@@ -556,7 +556,7 @@ Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
 
-<figures/results/obLabel/qual_cat.png, id=116, 7929.4644pt x 1720.026pt>
+<figures/results/obLabel/qual_cat.png, id=117, 7929.4644pt x 1720.026pt>
 File: figures/results/obLabel/qual_cat.png Graphic file (type png)
 
 <use figures/results/obLabel/qual_cat.png>
@@ -564,7 +564,7 @@ Package pdftex.def Info: figures/results/obLabel/qual_cat.png used on input lin
 e 7.
 (pdftex.def)             Requested size: 496.85625pt x 107.76381pt.
 
-<figures/results/obLabel/memScore_dist2.png, id=117, 695.2374pt x 474.0912pt>
+<figures/results/obLabel/memScore_dist2.png, id=118, 695.2374pt x 474.0912pt>
 File: figures/results/obLabel/memScore_dist2.png Graphic file (type png)
 
 <use figures/results/obLabel/memScore_dist2.png>
@@ -576,7 +576,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5 <./figures/results/fixation/positions_final.png> <./figures/results/fixatio
 n/qual/qual.png> <./figures/results/obLabel/memScore_dist2.png>]
-<figures/results/obLabel/memScore_change2.png, id=135, 698.8509pt x 472.4049pt>
+<figures/results/obLabel/memScore_change2.png, id=137, 698.8509pt x 472.4049pt>
 File: figures/results/obLabel/memScore_change2.png Graphic file (type png)
 <use figures/results/obLabel/memScore_change2.png>
 Package pdftex.def Info: figures/results/obLabel/memScore_change2.png used on i
@@ -587,7 +587,7 @@ Underfull \vbox (badness 1609) has occurred while \output is active []
 
  [6 <./figures/results/obLabel/qual_cat.png> <./figures/results/obLabel/memScor
 e_change2.png>]
-<figures/results/obLabel/confusionMatrix.png, id=152, 754.9806pt x 465.1779pt>
+<figures/results/obLabel/confusionMatrix.png, id=154, 754.9806pt x 465.1779pt>
 File: figures/results/obLabel/confusionMatrix.png Graphic file (type png)
 
 <use figures/results/obLabel/confusionMatrix.png>
@@ -599,7 +599,7 @@ Overfull \hbox (11.29218pt too wide) in paragraph at lines 15--16
  [][] 
  []
 
-<figures/results/obLabel/inter-class/14.jpg, id=153, 339.2675pt x 501.875pt>
+<figures/results/obLabel/inter-class/14.jpg, id=155, 339.2675pt x 501.875pt>
 File: figures/results/obLabel/inter-class/14.jpg Graphic file (type jpg)
 
 <use figures/results/obLabel/inter-class/14.jpg>
@@ -607,7 +607,7 @@ Package pdftex.def Info: figures/results/obLabel/inter-class/14.jpg used on inp
 ut line 21.
 (pdftex.def)             Requested size: 21.15756pt x 31.2982pt.
 
-<figures/results/obLabel/inter-class/85.jpg, id=154, 376.40625pt x 501.875pt>
+<figures/results/obLabel/inter-class/85.jpg, id=156, 376.40625pt x 501.875pt>
 File: figures/results/obLabel/inter-class/85.jpg Graphic file (type jpg)
 
 <use figures/results/obLabel/inter-class/85.jpg>
@@ -615,7 +615,7 @@ Package pdftex.def Info: figures/results/obLabel/inter-class/85.jpg used on inp
 ut line 22.
 (pdftex.def)             Requested size: 23.47363pt x 31.2982pt.
 
-<figures/results/obLabel/inter-class/10.jpg, id=155, 18.0675pt x 11.52707pt>
+<figures/results/obLabel/inter-class/10.jpg, id=157, 18.0675pt x 11.52707pt>
 File: figures/results/obLabel/inter-class/10.jpg Graphic file (type jpg)
 
 <use figures/results/obLabel/inter-class/10.jpg>
@@ -623,7 +623,7 @@ Package pdftex.def Info: figures/results/obLabel/inter-class/10.jpg used on inp
 ut line 23.
 (pdftex.def)             Requested size: 49.0635pt x 31.2982pt.
 
-<figures/results/obLabel/inter-class/128.jpg, id=156, 501.875pt x 400.49625pt>
+<figures/results/obLabel/inter-class/128.jpg, id=158, 501.875pt x 400.49625pt>
 File: figures/results/obLabel/inter-class/128.jpg Graphic file (type jpg)
 
 <use figures/results/obLabel/inter-class/128.jpg>
@@ -631,7 +631,7 @@ Package pdftex.def Info: figures/results/obLabel/inter-class/128.jpg used on in
 put line 24.
 (pdftex.def)             Requested size: 39.21654pt x 31.2982pt.
 
-<figures/results/obLabel/inter-class/102.jpg, id=157, 508.94366pt x 426.49478pt
+<figures/results/obLabel/inter-class/102.jpg, id=159, 508.94366pt x 426.49478pt
 >
 File: figures/results/obLabel/inter-class/102.jpg Graphic file (type jpg)
  <use figures/results/obLabel/inter-class/102.jpg>
@@ -639,7 +639,7 @@ Package pdftex.def Info: figures/results/obLabel/inter-class/102.jpg used on in
 put line 25.
 (pdftex.def)             Requested size: 37.34595pt x 31.2982pt.
 
-<figures/results/obLabel/inter-class/129.jpg, id=158, 269.808pt x 202.356pt>
+<figures/results/obLabel/inter-class/129.jpg, id=160, 269.808pt x 202.356pt>
 File: figures/results/obLabel/inter-class/129.jpg Graphic file (type jpg)
 
 <use figures/results/obLabel/inter-class/129.jpg>
@@ -647,7 +647,7 @@ Package pdftex.def Info: figures/results/obLabel/inter-class/129.jpg used on in
 put line 26.
 (pdftex.def)             Requested size: 41.72923pt x 31.2982pt.
 
-<figures/results/obLabel/inter-class/14.png, id=159, 339.2675pt x 501.875pt>
+<figures/results/obLabel/inter-class/14.png, id=161, 339.2675pt x 501.875pt>
 File: figures/results/obLabel/inter-class/14.png Graphic file (type png)
 
 <use figures/results/obLabel/inter-class/14.png>
@@ -655,7 +655,7 @@ Package pdftex.def Info: figures/results/obLabel/inter-class/14.png used on inp
 ut line 27.
 (pdftex.def)             Requested size: 21.15756pt x 31.2982pt.
 
-<figures/results/obLabel/inter-class/85.png, id=160, 376.40625pt x 501.875pt>
+<figures/results/obLabel/inter-class/85.png, id=162, 376.40625pt x 501.875pt>
 File: figures/results/obLabel/inter-class/85.png Graphic file (type png)
 
 <use figures/results/obLabel/inter-class/85.png>
@@ -663,7 +663,7 @@ Package pdftex.def Info: figures/results/obLabel/inter-class/85.png used on inp
 ut line 28.
 (pdftex.def)             Requested size: 23.47363pt x 31.2982pt.
 
-<figures/results/obLabel/inter-class/10.png, id=161, 501.875pt x 320.19624pt>
+<figures/results/obLabel/inter-class/10.png, id=163, 501.875pt x 320.19624pt>
 File: figures/results/obLabel/inter-class/10.png Graphic file (type png)
 
 <use figures/results/obLabel/inter-class/10.png>
@@ -671,7 +671,7 @@ Package pdftex.def Info: figures/results/obLabel/inter-class/10.png used on inp
 ut line 29.
 (pdftex.def)             Requested size: 49.0494pt x 31.2982pt.
 
-<figures/results/obLabel/inter-class/128.png, id=162, 501.875pt x 400.49625pt>
+<figures/results/obLabel/inter-class/128.png, id=164, 501.875pt x 400.49625pt>
 File: figures/results/obLabel/inter-class/128.png Graphic file (type png)
 
 <use figures/results/obLabel/inter-class/128.png>
@@ -679,7 +679,7 @@ Package pdftex.def Info: figures/results/obLabel/inter-class/128.png used on in
 put line 30.
 (pdftex.def)             Requested size: 39.21654pt x 31.2982pt.
 
-<figures/results/obLabel/inter-class/102.png, id=163, 501.875pt x 420.57124pt>
+<figures/results/obLabel/inter-class/102.png, id=165, 501.875pt x 420.57124pt>
 File: figures/results/obLabel/inter-class/102.png Graphic file (type png)
 
 <use figures/results/obLabel/inter-class/102.png>
@@ -687,7 +687,7 @@ Package pdftex.def Info: figures/results/obLabel/inter-class/102.png used on in
 put line 31.
 (pdftex.def)             Requested size: 37.34799pt x 31.2982pt.
 
-<figures/results/obLabel/inter-class/129.png, id=164, 449.68pt x 337.26pt>
+<figures/results/obLabel/inter-class/129.png, id=166, 449.68pt x 337.26pt>
 File: figures/results/obLabel/inter-class/129.png Graphic file (type png)
 
 <use figures/results/obLabel/inter-class/129.png>
@@ -703,59 +703,57 @@ Overfull \hbox (11.30264pt too wide) in paragraph at lines 8--15
 [][] 
  []
 
-<figures/results/imMem/qual.png, id=169, 1828.58156pt x 420.82219pt>
+<figures/results/imMem/qual.png, id=171, 1828.58156pt x 420.82219pt>
 File: figures/results/imMem/qual.png Graphic file (type png)
 
 <use figures/results/imMem/qual.png>
 Package pdftex.def Info: figures/results/imMem/qual.png used on input line 21.
 (pdftex.def)             Requested size: 496.85625pt x 114.34268pt.
-)) (predictingObMem.tex [7 <./figures/results/obLabel/confusionMatrix.png> <./f
-igures/results/obLabel/inter-class/14.jpg> <./figures/results/obLabel/inter-cla
-ss/85.jpg> <./figures/results/obLabel/inter-class/10.jpg> <./figures/results/ob
-Label/inter-class/128.jpg> <./figures/results/obLabel/inter-class/102.jpg> <./f
-igures/results/obLabel/inter-class/129.jpg> <./figures/results/obLabel/inter-cl
-ass/14.png (PNG copy)> <./figures/results/obLabel/inter-class/85.png (PNG copy)
-> <./figures/results/obLabel/inter-class/10.png (PNG copy)> <./figures/results/
-obLabel/inter-class/128.png (PNG copy)> <./figures/results/obLabel/inter-class/
-102.png (PNG copy)> <./figures/results/obLabel/inter-class/129.png (PNG copy)>]
+)) (predictingObMem.tex
 
+LaTeX Warning: Reference `sec:obLabel' on page 7 undefined on input line 4.
 
-LaTeX Warning: Reference `sec:obLabel' on page 8 undefined on input line 3.
-
-
-Underfull \vbox (badness 5050) has occurred while \output is active []
-
-
-<figures/results/benchmark/comparison.png, id=212, 2192.94281pt x 1840.62656pt>
+[7 <./figures/results/obLabel/confusionMatrix.png> <./figures/results/obLabel/i
+nter-class/14.jpg> <./figures/results/obLabel/inter-class/85.jpg> <./figures/re
+sults/obLabel/inter-class/10.jpg> <./figures/results/obLabel/inter-class/128.jp
+g> <./figures/results/obLabel/inter-class/102.jpg> <./figures/results/obLabel/i
+nter-class/129.jpg> <./figures/results/obLabel/inter-class/14.png (PNG copy)> <
+./figures/results/obLabel/inter-class/85.png (PNG copy)> <./figures/results/obL
+abel/inter-class/10.png (PNG copy)> <./figures/results/obLabel/inter-class/128.
+png (PNG copy)> <./figures/results/obLabel/inter-class/102.png (PNG copy)> <./f
+igures/results/obLabel/inter-class/129.png (PNG copy)>]
+<figures/results/benchmark/comparison.png, id=221, 2192.94281pt x 1840.62656pt>
 File: figures/results/benchmark/comparison.png Graphic file (type png)
 <use figures/results/benchmark/comparison.png>
 Package pdftex.def Info: figures/results/benchmark/comparison.png used on input
- line 9.
+ line 10.
 (pdftex.def)             Requested size: 198.73946pt x 166.80075pt.
 ) (egpaper_for_review.bbl
 (egpaper_for_review.brf)
 \tf@brf=\write3
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
  [8 <./figures/results/benchmark/comparison.png>]
-Underfull \hbox (badness 1755) in paragraph at lines 156--156
+Underfull \hbox (badness 1755) in paragraph at lines 170--170
 []\OT1/ptm/m/n/9 D. G. Lowe.  Dis-tinc-tive im-age fea-tures from scale-
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 174--174
+Underfull \hbox (badness 1028) in paragraph at lines 188--188
 []\OT1/ptm/m/n/9 F. Per-azzi, P. Kra-hen-buhl, Y. Pritch, and A. Hor-nung.
  []
 
-)
+[9])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 87.
- [9] [10 <./figures/results/imMem/qual.png>]
+ [10
+
+] [11 <./figures/results/imMem/qual.png>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 87.
  (egpaper_for_review.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 87.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 87.
 Package rerunfilecheck Info: File `egpaper_for_review.brf' has not changed.
-(rerunfilecheck)             Checksum: C0A49170E641DEABCECF48CB159B1941;1864.
+(rerunfilecheck)             Checksum: FDFFA7D2AF3328144111C3604A4CB6A1;2129.
 
 
 LaTeX Warning: There were undefined references.
@@ -763,13 +761,13 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 87.
  ) 
 Here is how much of TeX's memory you used:
- 8412 strings out of 493698
- 125971 string characters out of 3144403
- 223546 words of memory out of 3000000
- 11449 multiletter control sequences out of 15000+200000
- 35689 words of font info for 76 fonts, out of 3000000 for 9000
+ 8434 strings out of 493698
+ 126263 string characters out of 3144403
+ 226733 words of memory out of 3000000
+ 11464 multiletter control sequences out of 15000+200000
+ 38859 words of font info for 80 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 42i,13n,39p,3081b,479s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,13n,39p,3384b,477s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/font
@@ -778,9 +776,9 @@ urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/u
 hvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on egpaper_for_review.pdf (10 pages, 18821000 bytes).
+Output written on egpaper_for_review.pdf (11 pages, 18825620 bytes).
 PDF statistics:
- 335 PDF objects out of 1000 (max. 8388607)
- 97 named destinations out of 1000 (max. 500000)
+ 357 PDF objects out of 1000 (max. 8388607)
+ 102 named destinations out of 1000 (max. 500000)
  131 words of extra memory for PDF output out of 10000 (max. 10000000)
 

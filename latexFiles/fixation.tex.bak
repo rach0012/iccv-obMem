@@ -8,7 +8,7 @@ To this aim, we utilized the eye fixation dataset made available for the Pascal-
 \vspace{-5mm}\caption{\footnotesize\textbf{Correlation between object memorability and number of fixations.} add-in later. }\label{fig:fixCorr}
 \end{figure}
 
-To sum up, saliency is a surprisingly good index of object memorability in simple contexts where there are few objects in the image, or when an object has few interesting points, but it is a much weaker predictor of object memorability in complex scenes containing multiple objects that have many points of interest.
+To sum up, saliency is a surprisingly good index of object memorability in simple contexts where there are few objects in the image, or when an object has few interesting points, but it is a much weaker predictor of object memorability in complex scenes containing multiple objects that have many points of interest (Figure \ref{fig:fixQual}).
 
 \begin{figure}[b]
 \centering
@@ -16,7 +16,7 @@ To sum up, saliency is a surprisingly good index of object memorability in simpl
 \vspace{-5mm}\caption{\footnotesize\textbf{Correlation between object memorability and number of fixations.} add-in later. }\label{fig:scatterFixation}
 \end{figure}
 
-\textbf{Center Bias: } Figure \ref{fig:fixPos} elucidates another example where saliency and memorability diverge. While previous studies related to visual saliency have showed that saliency is heavily influenced by center bias \cite{judd09}, \cite{sun08}, Figure \ref{fig:fixPos} shows that memorability exhibits comparatively less center bias than saliency. This is most apparent when considering the difference in the solid ellipse in the right plot (shows where $95\%$ of fixation positions are located), and the dashed ellipse (shows where the $95\%$ of the above-median memorable objects are located).
+\textbf{Center Bias: } Figure \ref{fig:fixPos} elucidates another example where saliency and memorability diverge. Previous studies related to visual saliency have showed that saliency is heavily influenced by center bias \cite{judd09}, \cite{sun08}, primarily due to photgrapher bias and viewer strategy \cite{tseng2009}. Figure \ref{fig:fixPos} shows that memorability exhibits comparatively less center bias than saliency. This is most apparent when considering the difference in the solid ellipse in the right plot (shows where $95\%$ of fixation positions are located), and the dashed ellipse (shows where the $95\%$ of the above-median memorable objects are located).
 
 %Our work serves as the first direct evidence that saliency and memorability differ from each other by exploring the differences and overlap between the two.
 %To the best of our knowledge, our work is the first to show the differences and overlap between saliency and memorability and how the two phenomena differ from each other.
@@ -30,7 +30,7 @@ To sum up, saliency is a surprisingly good index of object memorability in simpl
 \begin{figure}[t]
 \centering
 \subfigure{\centering \includegraphics[width=0.45\textwidth]{figures/results/fixation/qual/qual.png}}
-\vspace{-5mm}\caption{\footnotesize\textbf{Positions.} add-in later. }\label{fig:fixPos}
+\vspace{-5mm}\caption{\footnotesize\textbf{Saliency Fail cases.} add-in later. }\label{fig:fixQual}
 \end{figure}
 
 

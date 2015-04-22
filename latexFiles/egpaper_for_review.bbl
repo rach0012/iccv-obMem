@@ -64,6 +64,13 @@ M.~Everingham and J.~Winn.
 \newblock The pascal visual object classes challenge 2010 (voc2010) development
   kit, 2010.
 
+\bibitem{cnn14}
+R.~Girshick, J.~Donahue, T.~Darrell, and J.~Malik.
+\newblock Rich feature hierarchies for accurate object detection and semantic
+  segmentation.
+\newblock In {\em Computer Vision and Pattern Recognition (CVPR), 2014 IEEE
+  Conference on}, pages 580--587. IEEE, 2014.
+
 \bibitem{gb}
 J.~Harel, C.~Koch, and P.~Perona.
 \newblock Graph-based visual saliency.
@@ -131,6 +138,13 @@ A.~Krizhevsky, I.~Sutskever, and G.~E. Hinton.
 \newblock In {\em Advances in neural information processing systems}, pages
   1097--1105, 2012.
 
+\bibitem{lee2009convolutional}
+H.~Lee, R.~Grosse, R.~Ranganath, and A.~Y. Ng.
+\newblock Convolutional deep belief networks for scalable unsupervised learning
+  of hierarchical representations.
+\newblock In {\em Proceedings of the 26th Annual International Conference on
+  Machine Learning}, pages 609--616. ACM, 2009.
+
 \bibitem{yin14}
 Y.~Li, X.~Hou, C.~Koch, J.~M. Rehg, and A.~L. Yuille.
 \newblock The secrets of salient object segmentation.
@@ -171,6 +185,12 @@ F.~Perazzi, P.~Krahenbuhl, Y.~Pritch, and A.~Hornung.
   detection.
 \newblock In {\em Computer Vision and Pattern Recognition (CVPR), 2012 IEEE
   Conference on}, pages 733--740. IEEE, 2012.
+
+\bibitem{tseng2009}
+P.-H. Tseng, R.~Carmi, I.~G. Cameron, D.~P. Munoz, and L.~Itti.
+\newblock Quantifying center bias of observers in free viewing of dynamic
+  natural scenes.
+\newblock {\em Journal of vision}, 9(7):4, 2009.
 
 \bibitem{dutomron13}
 C.~Yang, L.~Zhang, H.~Lu, X.~Ruan, and M.-H. Yang.
