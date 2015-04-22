@@ -190,3 +190,112 @@
   year={2004},
   publisher={Springer}
 }
+
+@inproceedings{gb,
+  title={Graph-based visual saliency},
+  author={Harel, Jonathan and Koch, Christof and Perona, Pietro},
+  booktitle={Advances in neural information processing systems},
+  pages={545--552},
+  year={2006}
+}
+
+@inproceedings{aim,
+  title={Saliency based on information maximization},
+  author={Bruce, Neil and Tsotsos, John},
+  booktitle={Advances in neural information processing systems},
+  pages={155--162},
+  year={2005}
+}
+
+@inproceedings{dv,
+  title={Dynamic visual attention: Searching for coding length increments},
+  author={Hou, Xiaodi and Zhang, Liqing},
+  booktitle={Advances in neural information processing systems},
+  pages={681--688},
+  year={2009}
+}
+
+@article{it,
+  title={A model of saliency-based visual attention for rapid scene analysis},
+  author={Itti, Laurent and Koch, Christof and Niebur, Ernst},
+  journal={IEEE Transactions on pattern analysis and machine intelligence},
+  volume={20},
+  number={11},
+  pages={1254--1259},
+  year={1998},
+  publisher={IEEE Computer Society}
+}
+
+@inproceedings{gc,
+  title={Global contrast based salient region detection},
+  author={Cheng, Ming-Ming and Zhang, Guo-Xin and Mitra, Niloy J and Huang, Xiaolei and Hu, Shi-Min},
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on},
+  pages={409--416},
+  year={2011},
+  organization={IEEE}
+}
+
+@inproceedings{pc,
+  title={What makes a patch distinct?},
+  author={Margolin, Ran and Tal, Ayellet and Zelnik-Manor, Lihi},
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2013 IEEE Conference on},
+  pages={1139--1146},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{sf,
+  title={Saliency filters: Contrast based filtering for salient region detection},
+  author={Perazzi, Federico and Krahenbuhl, Philipp and Pritch, Yael and Hornung, Alexander},
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on},
+  pages={733--740},
+  year={2012},
+  organization={IEEE}
+}
+
+@inproceedings{ft,
+  title={Frequency-tuned salient region detection},
+  author={Achanta, Radhakrishna and Hemami, Sheila and Estrada, Francisco and Susstrunk, Sabine},
+  booktitle={Computer vision and pattern recognition, 2009. cvpr 2009. ieee conference on},
+  pages={1597--1604},
+  year={2009},
+  organization={IEEE}
+}
+
+@article{borji13,
+  title={Quantitative analysis of human-model agreement in visual saliency modeling: A comparative study},
+  author={Borji, Ali and Sihite, Dicky N and Itti, Laurent},
+  journal={Image Processing, IEEE Transactions on},
+  volume={22},
+  number={1},
+  pages={55--69},
+  year={2013},
+  publisher={IEEE}
+}
+
+@incollection{borji12,
+  title={Salient object detection: A benchmark},
+  author={Borji, Ali and Sihite, Dicky N and Itti, Laurent},
+  booktitle={Computer Vision--ECCV 2012},
+  pages={414--429},
+  year={2012},
+  publisher={Springer}
+}
+
+@inproceedings{cnn14,
+  title={Rich feature hierarchies for accurate object detection and semantic segmentation},
+  author={Girshick, Ross and Donahue, Jeff and Darrell, Trevor and Malik, Jitendra},
+  booktitle={Computer Vision and Pattern Recognition (CVPR), 2014 IEEE Conference on},
+  pages={580--587},
+  year={2014},
+  organization={IEEE}
+}
+
+@inproceedings{lee2009convolutional,
+  title={Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations},
+  author={Lee, Honglak and Grosse, Roger and Ranganath, Rajesh and Ng, Andrew Y},
+  booktitle={Proceedings of the 26th Annual International Conference on Machine Learning},
+  pages={609--616},
+  year={2009},
+  organization={ACM}
+}
