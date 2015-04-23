@@ -1,20 +1,15 @@
-\begin{figure*}[!htb]
-\centering
-\subfigure{\centering \includegraphics[width=1\textwidth]{figures/method/main-task_v4.png}}
-\vspace{-5mm}\caption{\footnotesize\textbf{Object Memory Game.} Participants viewed a series of images, followed by a sequence of objects and were asked to indicate whether each object was seen in the earlier sequence of full images. }\label{fig:mainTask}
-\end{figure*}
-
-
 As a first step towards understanding memorability of objects in
 images, we compile an image database containing a variety of objects
 from a diverse range of categories, as well as, measure the
 probability that every object in each database image will be
-remembered by a large group of subjects after a single viewing. 
+remembered by a large group of subjects after a single viewing.
 %
 This
 helps provide ground truth memorability scores for objects inside
 images (defined as image segments) and allows for a precise analysis
-of the memorable elements within an image. 
+of the memorable elements within an image.
+
+
 %
 Toward this, we utilized the
 PASCAL-S dataset \cite{yin14}, a fully segmented dataset built on the
@@ -22,13 +17,13 @@ validation set of the PASCAL VOC 2010 \cite{pascal10} segmentation
 challenge. To improve segmentation quality, we manually refined the
 segmentations from this dataset. We removed all homogenous non-object
 or background segments (e.g. ground, grass, floor, and sky), along
-with, imperceptible object fragments and excessively blurred
+with imperceptible object fragments and excessively blurred
 regions. All remaining object segmentations were tested for
 memorability. In summary, our final dataset comprises $850$ images and
 $3,412$ object segmentations (i.e. an average of $4$ objects per
 image), for which we gathered ground truth memorability through crowd
 sourcing. %\B{how about image size? - they were all in their original
-          %sizes and aspect ratios.} 
+          %sizes and aspect ratios.}
 
 
 \subsection{Object Memory Game}

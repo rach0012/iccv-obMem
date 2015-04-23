@@ -24,6 +24,20 @@
 % run, let it finish, and you should be clear).
 \usepackage[pagebackref=true,breaklinks=true,letterpaper=true,colorlinks,bookmarks=false]{hyperref}
 
+%% space savers
+\renewcommand\topfraction{.99}
+\renewcommand\bottomfraction{.99}
+\renewcommand\textfraction{.01}
+\linespread{.99}
+\renewcommand\floatpagefraction{.99}
+\setlength{\parskip}{0pt}
+\setlength{\textfloatsep}{6pt}
+\setlength{\floatsep}{0pt}
+\setlength{\dblfloatsep}{0pt}
+\setlength{\dbltextfloatsep}{6pt}
+\setlength{\parsep}{0pt}
+\setlength{\headsep}{0pt}
+\setlength{\topskip}{0pt}
 
 \def\B#1{\textcolor{red}{[#1]}}
 
@@ -34,6 +48,7 @@
 
 % Pages are numbered in submission mode, and unnumbered in camera-ready
 \ificcvfinal\pagestyle{empty}\fi
+
 \begin{document}
 
 %%%%%%%%% TITLE
@@ -81,6 +96,8 @@ First line of institution2 address\\
 
 \input{predictingObMem}
 
+\section{Conclusion}
+\input{conclusion}
 
 {\small
 \bibliographystyle{ieee}

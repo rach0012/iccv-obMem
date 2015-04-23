@@ -7,10 +7,10 @@ vehicle. We chose these categories so that a wide range of object
 classes could be covered. For example, category ``device'' includes
 objects like utensils, bottles, and televisions, while ``nature'' includes objects like trees, mountains, and flowers, and “vehicle” contains cars, bikes, and airplanes. Figure \ref{fig:avgMem} shows the distribution of the memorability scores of all $7$ object categories in our dataset.
 
-\begin{figure}[!htb]
+\begin{figure}[b]
 \centering
-\subfigure{\centering \includegraphics[width=0.45\textwidth]{figures/results/obLabel/memScore_dist3.png}}
-\vspace{-5mm}\caption{\footnotesize\textbf{Some object categories are more memorable than others.} Classes like furniture, nature, building, and device tend to have a large majority of objects with very low memorability scores. Objects belonging to animal, person, and vehicle class are remembered more often and have a high average memorability score.}\label{fig:avgMem}
+\subfigure{\centering \includegraphics[width=0.47\textwidth]{figures/results/obLabel/memScore_dist3.png}}
+\vspace{-5mm}\caption{\footnotesize\textbf{Some object categories are more memorable than others.} Categories like furniture, nature, building, and device tend to have a large majority of objects with very low memorability scores. Objects belonging to animal, person, and vehicle categories are remembered more often.}\label{fig:avgMem}
 \end{figure}
 
 Results in Figure \ref{fig:avgMem} give a sense of how  memorability changes across different object categories. Animal, person, and vehicle are all highly memorable classes each associated with  an average memorability score greater than or close to $0.5$. Interestingly, all other categories have an average memorability lower than $0.25$, indicating that humans do not remember objects from these categories very well. In particular, furniture is the least memorable category with an average score of only $0.14$. This is possibly due to the fact that most objects in the furniture, nature, and building categories either appear mostly in the background or are occluded, which likely decreases their memorability significantly. In contrast, objects from the animal, person, and vehicle categories appear mostly in the foreground, leading to a higher memorability score on average. Interestingly, the most memorable objects from building, furniture, and nature tend to have an average memorability in the range of $0.4 - 0.8$, whereas the score of the most memorable objects from person, animal and vehicle is higher than $0.9$. %This is particularly interesting as these top objects are not occluded and most of them tend to appear in the foreground.
