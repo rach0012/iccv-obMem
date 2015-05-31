@@ -1,20 +1,34 @@
-As demonstrated above, some object classes (i.e. animal, person, vehicle) are more memorable than others. However, not all objects in a class are equally memorable. The examples in figure \ref{fig:qualLabel} show the most memorable and least memorable objects for each object class. Across classes,  non-memorable objects tend to be those that are occluded and obstructed by other objects. What other possible factors could influence the memorability of an object within a class? Among the various possible factors, we explored how object memorability within a particular class is influenced by a) the number of objects in an image and b) the presence of other object classes.
 
-\textbf{Number of objects:} We first examined how the memorability of each object class is affected by the number of objects inside an image. Figure \ref{fig:obLabelChange} shows the change in average memorability of the different object classes with respect to the increase in number of objects in an image. Results indicate that the number of objects present in an image is an important factor in determining memorability. For example, as the number of objects in an image increases, the memorability  animals and vehicles decreases sharply, likely as a result of competition for attention, or decreased spotlight on a single subject of the composition.  Interestingly, the memorability of the person class does not change significantly with an increase in number of objects. This suggests that people are not only one of the most memorable object classes, but are also more robust to the presence of clutter in images. This may be because single people in images steal all of the attention of the viewer, but how do they behave in the presence of other people? To answer this, we turn to the question of interclass memorability next.
-
-\begin{figure}[t]
+\begin{figure*}[!htb]
 \centering
-\subfigure{\centering \includegraphics[width=0.45\textwidth]{figures/results/obLabel/memScore_change2.png}}
-\vspace{-5mm}\caption{\footnotesize\textbf{Correlation between object class and number of objects.} add-in later. }\label{fig:obLabelChange}
+\subfigure{\centering \includegraphics[width=1\textwidth]{figures/results/obLabel/qual_cat_v2.png}}
+\vspace{-24pt}\caption{\footnotesize\textbf{Memorability of object categories.} Most memorable, medium memorable and least memorable objects from each of the $7$ categories.}\label{fig:obLabelQual}%\vspace{-12pt}
+\end{figure*}
+
+As demonstrated above, some object categories (i.e. animal, person, and vehicle) tend to be more memorable than others. However, not all objects in the same category are equally memorable. The examples in Figure \ref{fig:obLabelQual} show the most memorable, medium memorable, and least memorable objects for each category. Across categories, non-memorable objects tend to be those that are occluded and obstructed by other objects. What other category-related factors could influence the memorability of objects? Among the possible factors, we explore how category-specific object memorability is influenced by \textbf{(i)} the number of objects in an image and \textbf{(ii)} the presence of other object categories.
+
+
+\vspace{3pt}\noindent\textbf{Number of objects:} %We first examined how the memorability of each object class is affected by the number of objects inside an image.
+Figure \ref{fig:obLabelChange} shows the change in average memorability for the different categories when the minimum number of objects within an image is increased. Results indicate that the number of objects present in an image is an important factor in determining memorability. For example, as the number of objects in an image increases, the memorability of animals and vehicles decreases sharply, most likely as a result of competition for attention. Interestingly, the memorability of the person category does not change significantly when an increasing number of objects exist in the image. This suggests that people are not only one of the most memorable object categories, but that their memorability is the least sensitive to the presence of object clutter in an image. This may be because a single person steals most of the viewer's attention in an image, but how is this behavior characterized in the presence of other multiple people in the same image? To answer this, we turn to the question of interclass memorability next.
+
+\begin{figure}[!t]
+\centering
+\subfigure{\centering \includegraphics[width=0.47\textwidth]{figures/results/obLabel/memScore_change2.png}}
+\vspace{-5mm}\caption{\footnotesize\textbf{Object number affects category-specific memorability.} For each category, a curve is plotted that shows the change in average memorability with an increase in the number of objects. The memorability of objects belonging to categories like animals and vehicles goes down significantly with an increase in object number.}\label{fig:obLabelChange}
 \end{figure}
 
-\textbf{Inter-class memorability:} How does the presence of a particular object class influence the memorability of another object class? For all pairwise combinations of object category, we gathered all images that contained at least one object from both categories and computed the change in the average memorability scores for the two object categories. Figure \ref{fig:obLabelPair} plots these data and visualizes how the memorability of each object class is affected by the presence other object classes. The first thing to note is that the values of low-memorability classes (i.e. nature, furniture, device, and building) are not greatly affected by the presence of other object categories. Instead, their memorability tends to remain low across all contexts. The memorability of the animal class remains close to its high average memorability score in presence of most classes, but drops significantly in the presence of other animals, vehicles, and people. The memorability of people also remains close to its average memorability score and tends to be unaffected by the presence of most object categories (including other people). However, the memorability of a person decreases in the presence of vehicles and buildings. This could be due to the fact that people in images containing vehicles or buildings are usually zoomed out and are usually smaller in size (also illustrated in figure \ref{fig:qualInterClass}). The memorability of the vehicle class is strongly affected by the presence of other object categories. In particular, its memorability drops significantly in the presence of another vehicle, people, and animals. Taken together, when an animal, vehicle or a person is present in the same image, the memorability of all three classes usually goes down. However, this pattern of change in memorability varies by class, leading to interesting results. For example, when a vehicle and animal are present in the same image, the animal is generally more memorable. even though the memorability of both of these classes drops significantly. When a vehicle or an animal co-occurs with a person, the person is generally more memorable (also shown in Figure \ref{fig:qualInterClass}).
-
-\begin{figure}[b]
+\begin{figure}[!b]
 \centering
-\subfigure{\centering \includegraphics[width=0.5\textwidth]{figures/results/obLabel/confusionMatrix.png}}
-\vspace{-5mm}\caption{\footnotesize\textbf{inter-class object memorability relationship.} add-in later. }\label{fig:obLabelPair}
+\subfigure{\centering \includegraphics[width=0.47\textwidth]{figures/results/obLabel/confusionMatrix_v2.png}}
+\vspace{-5mm}\caption{\footnotesize\textbf{Inter-class object memorability relationship.} The effect on memorability a distractor category has on each reference category }\label{fig:obLabelPair}
 \end{figure}
+
+\vspace{3pt}\noindent\textbf{Inter-class memorability:} How much is the memorability of a particular object category affected when it co-occurs with another object category (or another instance of the same category)? To quantify the effect of one category on another, we consider each pairwise combination of categories and gather all images that contain at least one object from both categories. By taking one category as the \emph{reference} and the other as the \emph{distractor}, we compute the average memorability score $m_{R|D}$ of the reference in the  images common to the reference and distractor. To isolate the effect of the distractor, we compute the memorability difference $\Delta m=(m_{R|D}-m_R)$, where $m_R$ is the memorability score of the reference in all images where it exists. Figure \ref{fig:obLabelPair} shows $\Delta m$ for all possible reference and distractor pairs. It is clear that  $\Delta m$ for low-memorability categories (i.e. nature, furniture, device, and building) is not significantly affected by the presence of other categories. %Instead, their memorability tends to remain low across all contexts.
+
+
+
+Also, the memorability of the animal category maintains its high score in the presence of other categories, except vehicles, people, and itself, where it decreases substantially. The memorability of people tends to be unaffected by the presence of most other categories including itself. However, it decreases in the presence of vehicles and buildings. This could be due to the fact that people in images containing vehicles or buildings are usually zoomed out and smaller in size (refer to Figure \ref{fig:qualInterClass}). The memorability of the vehicle category is strongly affected by the presence of other object categories. In particular, it drops significantly in the presence of another vehicle, people, and animals.
+
 
 \begin{figure}[t]
 \centering
@@ -24,12 +38,19 @@ As demonstrated above, some object classes (i.e. animal, person, vehicle) are mo
 \subfigure{\centering \includegraphics[height = 1.1 cm]{figures/results/obLabel/inter-class/128.jpg}}
 \subfigure{\centering \includegraphics[height = 1.1 cm]{figures/results/obLabel/inter-class/102.jpg}}
 \subfigure{\centering \includegraphics[height = 1.1 cm]{figures/results/obLabel/inter-class/129.jpg}}\\
+\vspace{-2mm}
 \subfigure{\centering \includegraphics[height = 1.1 cm]{figures/results/obLabel/inter-class/14.png}}
 \subfigure{\centering \includegraphics[height = 1.1 cm]{figures/results/obLabel/inter-class/85.png}}
 \subfigure{\centering \includegraphics[height = 1.1 cm]{figures/results/obLabel/inter-class/10.png}}
 \subfigure{\centering \includegraphics[height = 1.1 cm]{figures/results/obLabel/inter-class/128.png}}
 \subfigure{\centering \includegraphics[height = 1.1 cm]{figures/results/obLabel/inter-class/102.png}}
 \subfigure{\centering \includegraphics[height = 1.1 cm]{figures/results/obLabel/inter-class/129.png}}
-\vspace{-5mm}\caption{\footnotesize\textbf{Qual Results.} Figure showing how memorability of different classes is effected in presence of other classes. Bottom row is the memorabilty map}\label{fig:qualInterClass}
+\vspace{-5mm}\caption{\footnotesize\textbf{Memorability of person in presence of other categories.} Top row: Images where a person co-occurs with other categories. Bottom row: Ground truth object memorability maps. In the presence of buildings, the memorability of person can drop. In the presence of a vehicle or animal, the person usually is more memorable. }\label{fig:qualInterClass}
 \end{figure}
+
+In summary, when an animal, vehicle or a person co-occur in the same image, the memorability of all three categories usually decreases. However, this pattern of change in memorability is category-specific in general. For example, when a vehicle and animal are present in the same image, the animal is generally more memorable, even though both their memorability scores drop significantly. When a vehicle or an animal co-occurs with a person, the person is generally more memorable (also shown in Figure \ref{fig:qualInterClass}).
+
+
+
+
 

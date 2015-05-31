@@ -1,0 +1,16 @@
+/*.brf
+/*.prj
+/*.aux
+/*.bbl
+/*.blg
+/*.log
+/*.pdf
+/*.synctex
+/*.tex.bak
+/*.prj.bak
+/*.bak
+/*.synctex.gz
+
+# Victor's garbage collector
+*.backup
+*Thumbs.db

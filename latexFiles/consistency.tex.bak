@@ -1,6 +1,0 @@
-Previous work on image memorability has found human consistency to be fairly high. That is, people tend to remember the same images, and exhibit similar performance in doing so. Despite variability due to individual differences and other sources of noise, this level of consistency provides evidence that memorability is an intrinsic property of images that can be predicted. In contrast to full images, this paper focuses primarily on the memorability of individual objects in an image, which may or may not exhibit the same level of human consistency as full images, which often contain complex arrangements of several objects. High consistency in object memorability would indicate that, like full images, objects can potentially be predicted with high accuracy. 
-
-To assess human consistency in remembering objects, we repeatedly divided our entire subject pool into two equal halves and quantified the degree to which memorability scores for the two sets of subjects were in agreement using Spearman’s rank correlation ($\rho$). We computed the average correlation over $25$ of these random split iterations, yielding a final value of $0.76$. Such a result confirms that human consistency in remembering particular objects is at least as strong as that of images.
-
-
-Is object memorability a shared property across subjects?

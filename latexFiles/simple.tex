@@ -1,8 +1,32 @@
-\begin{figure}[t]
+\begin{figure}[b]
 \centering
-\subfigure{\centering \includegraphics[width=0.45\textwidth]{figures/results/simple_features/color_corrs.png}}
-\vspace{-5mm}\caption{\footnotesize\textbf{Correlations between simple color features and object memorability.} Color features were computed from HSV representations of the objects. }\label{fig:simple}
+\subfigure{\centering \includegraphics[width=0.47\textwidth]{figures/results/simple_features/color_corrs.png}}
+\vspace{-5mm}\caption{\footnotesize\textbf{Simple color features do not explain object memorability.} Correlations of object memorability scores with hue and saturation are near zero, and only value shows a very weak correlation.}\label{fig:simple}
 \end{figure}
 
-While simple image features are traditionally poor predictors of memorability in full images \cite{isola11}, and with good reason \cite{konkle10}, do they play any role in determining object memorability? We decomposed each image into it's hue, saturation, and value components and calculated the mean and standard deviation of each channel. Mean value ($\rho = 0.1$) and variance in value ($\rho=0.25$) were weakly correlated with object memorability suggesting that brighter and higher contrast objects may be more memorable (Figure \ref{fig:simple}). On the other hand, essentially no relationship was found between memorability and either hue or saturation (Figure \ref{fig:simple}). This deviates slightly from the findings in \cite{isola11} that showed mean hue to be weakly predictive of image memorability. However, this makes sense since the effect was speculated to be due to the blue and green outdoor landscapes being less memorable than warmly colored human faces and indoor scenes. While our dataset contained plenty of indoor objects and people, outdoor scene-related image regions such as sky and ground were not included as objects. Taken together, these results show that, like image memorability, basic pixel statistics do not play a significant role in determining the memorability of objects in images.
+
+While simple low-level image features are traditionally poor
+predictors of image memorability \cite{isola11} (with good reason
+\cite{konkle10}), the question arises whether such features play any
+role in determining object memorability in images. To address this
+query and following a similar strategy as in \cite{isola11,isola14},
+we compute the mean (and variance) of HSV color of each object in our
+dataset, i.e. first and second order  statistics of pixel color within
+an object's ground truth segmentation, and correlate it (Spearman rank
+correlation) with the underlying object memorability score (refer to
+Figure \ref{fig:simple}). We see that the mean ($\rho = 0.1$) and
+variance ($\rho=0.25$) of the V channel correlates weakly with
+object memorability, suggesting that brighter and higher contrast
+objects may be more memorable. On the other hand, essentially no
+relationship exists between memorability and either the H or S
+channels. This deviates slightly from the findings in \cite{isola11},
+which show mean hue to be weakly predictive of image
+memorability. This difference could be due to the fact that many
+images of the dataset in \cite{isola11} show blue and green outdoor
+landscapes as being less memorable than warmly colored human faces and
+indoor scenes, while our dataset contains plenty of indoor objects and
+people and outdoor scene-related segments such as sky and ground are
+not included as objects. From these results, we see that, like image
+memorability, simple pixel statistics do not play a significant role
+in determining object memorability in images.
 
