@@ -1,0 +1,109 @@
+
+
+Consider the image and its corresponding objects in Figure
+\ref{fig:introPhoto}. Even though the person on the right is
+comparable in size to the person on the left, he is remembered far
+less by human subjects (indicated by their respective memorability
+scores of $0.18$ and $0.64$). Moreover, people tend to remember the
+person on the left and the fish in the center, even after $3$ minutes
+and more than 70 additional stimuli have intervened (memorability
+score $= 0.64$). Interestingly, despite vibrant colors and
+considerable size, the boat is far less memorable (score $=
+0.18$). One of the primary goals of computer vision is to provide
+implementations of human-relevant tasks, such as object recognition,
+object detection, and scene understanding. Much of the algorithms in
+service of this goal have to make inferences about all objects in a
+scene. By contrast, humans are incredibly selective in the information
+they consider from the possible candidates, and as a result, many
+human tasks are dependent on this filtering mechanism to operate
+effectively. For this reason, it is important for vision systems to
+have information on hand concerning what objects human minds deem
+important in the world, or in our specific case, which of them are
+worth remembering. Such information holds exciting promise: imagine
+instructional designs in education that maximize a student's retention
+while minimizing distractions implicitly, or intelligent assistance
+software that knows to prioritize important information that humans
+are likely to forget. 
+
+\begin{figure}[t]
+\centering
+\subfigure{\centering \includegraphics[width=0.2\textwidth]{figures/introduction/113.png}}
+\subfigure{\centering \includegraphics[width=0.2\textwidth]{figures/introduction/intro.png}}
+\vspace{-5mm}\caption{\footnotesize\textbf{Not all objects are equally remembered.} Memorability scores of objects for the image in the top row obtained from our pysophysics experiment. }\label{fig:introPhoto}
+\end{figure}
+
+
+Consider again Figure \ref{fig:introPhoto}. Why
+are the fish and left person more memorable, and how do these objects 
+influence the overall memorability of the photo? The field has made
+great strides in understanding comparable properties of the world such
+as saliency and aesthetic value, but currently we don’t have a clear
+understanding of what objects are ``worth'' remembering in the
+world. 
+%
+Although recent studies related to image memorability have
+explored this on an image-level, no work has explored what exactly
+about an image is remembered. Using object annotations and predictive
+models, such knowledge can be potentially inferred from the
+memorability score of an image alone, but these methods will
+ultimately require ground truth object memorability data to be
+properly evaluated. As a complement to such approaches, we collect
+ground truth object level memorability scores and conduct an empirical
+investigation of  memorability at the object level: a simple yet
+highly powerful strategy that provides detailed answers to the
+questions at hand. While image memorability studies have provided
+invaluable knowledge on the general topic, the study of object
+memorability (of objects in their original context) provides not only
+crucial information about what exact elements of an image are
+remembered, but should eventually put forth by its very nature a
+bottom-up (or perhaps “mid-level-up”) account of memorability in
+parallel. Most importantly, such an analysis will enable unique
+applications in the fields of computer vision and computational
+photography that are not well informed by knowledge only at the level
+of the image as a whole. 
+
+
+
+In this paper, we systematically explore the memorability of objects
+within individual images and shed light on the various factors that
+drive object memorability. In exploring the connection between object
+memorability, saliency, and image memorability, our paper makes
+several contributions. 
+
+First, this paper presents the first work that studies the problem of
+object memorability and provides a deep understanding of what objects
+in an image are memorable or forgettable. While previous work has
+aimed to infer such knowledge  computationally (cite khosla paper),
+our work is the first to directly quantify and study what objects in
+an image humans actually remember.  
+%
+Second, we uncover the
+relationship between visual saliency and object memorability, and
+demonstrate those instances where visual saliency directly predicts
+object memorability and when/why it fails. While there have been a few
+studies that explore the connection between image memorability and
+visual saliency \cite{zoya15}, \cite{lemeur13}, our work is the first
+to explore the connection between object memorability and visual
+saliency. To the best of our knowledge, our work is the first to show
+the differences and overlap between saliency and memorability and how
+the two phenomena differ from each other.
+%
+Third, we make the initial
+leaps in disambiguating the link between image memorability and object
+memorability, and show that in many cases, the memorability of an
+image is primarily driven by the memorability of it’s most memorable
+object. Studying these questions, help not only understand visual
+saliency, image and object memorability in more detail, but it can
+also have important contributions to computer vision. For example,
+understanding which regions and objects in an image are memorable
+would enable us to modify the memorability of images which can have
+applications in advertising, user interface design etc. 
+%
+With this in mind, we show in Section~\ref{sec:predicting} that our
+proposed dataset can serve as a benchmark for evaluating object
+memorability algorithms and encourage future object and region
+memorability prediction schemes. 
+
+
+\subsection{Related works}
+\input{relatedWork} 
